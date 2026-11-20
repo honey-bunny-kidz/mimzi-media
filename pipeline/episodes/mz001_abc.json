@@ -1,0 +1,990 @@
+{
+ "title": "ABC Song for Toddlers | Learn Alphabet A to Z with Mimzi",
+ "scenes": [
+  {
+   "bg": "mz_playroom",
+   "banner": "Learn ABC with Mimzi!",
+   "lead": 0.3,
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.2
+    },
+    {
+     "id": "abc_strip",
+     "x": 0.5,
+     "y": 0.48,
+     "pop": true,
+     "scale": 0.88
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Hi friends! I'm Mimzi, and this is Teddy!"
+    },
+    {
+     "who": "teddy",
+     "text": "Hello, hello!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Let's learn our ABCs together. Ready? Clap with me!"
+    },
+    {
+     "who": "mimzi_wave",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.4
+    }
+   ]
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_A",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A is for apple.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "A, A, apple!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_B",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "B is for ball.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "B, B, ball!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_C",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.0
+    },
+    {
+     "who": "mimzi",
+     "text": "C! C is for cat."
+    },
+    {
+     "who": "teddy",
+     "text": "Meow!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_D",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "D is for duck.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "D, D, duck!"
+    },
+    {
+     "who": "teddy",
+     "text": "Quack, quack!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_E",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "E is for egg.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "E, E, egg!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yummy egg!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_F",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.0
+    },
+    {
+     "who": "mimzi",
+     "text": "F! F is for fish."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_G",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "G is for grapes.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "G, G, grapes!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_H",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "H is for hat.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "H, H, hat!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_I",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.0
+    },
+    {
+     "who": "mimzi",
+     "text": "I! I is for ice cream."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_J",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "J is for juice.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "J, J, juice!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_K",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "K is for kite.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "K, K, kite!"
+    },
+    {
+     "who": "teddy",
+     "text": "Whee, up high!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_L",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "L is for leaf.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "L, L, leaf!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_M",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.0
+    },
+    {
+     "who": "mimzi",
+     "text": "M! M is for moon."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "lead": 0.3,
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Wow, we're halfway there! Give Teddy a big clap!"
+    },
+    {
+     "who": "teddy",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    },
+    {
+     "who": "teddy",
+     "text": "Thank you! Let's keep going!"
+    }
+   ]
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_N",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "N is for nest.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "N, N, nest!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_O",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "O is for orange.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "O, O, orange!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_P",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.0
+    },
+    {
+     "who": "mimzi",
+     "text": "P! P is for pig."
+    },
+    {
+     "who": "teddy",
+     "text": "Oink, oink!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_Q",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Q is for quilt.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Q, Q, quilt!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_R",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "R is for rainbow.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "R, R, rainbow!"
+    },
+    {
+     "who": "teddy",
+     "text": "So pretty!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_S",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.0
+    },
+    {
+     "who": "mimzi",
+     "text": "S! S is for sun."
+    },
+    {
+     "who": "teddy",
+     "text": "Hello, sun!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_T",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "T is for tree.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "T, T, tree!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_U",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "U is for umbrella.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "U, U, umbrella!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_V",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.0
+    },
+    {
+     "who": "mimzi",
+     "text": "V! V is for van."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_W",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "W is for watermelon.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "W, W, watermelon!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yum, yum!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_X",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "X is for xylophone.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "X, X, xylophone!"
+    },
+    {
+     "who": "teddy",
+     "text": "Ding, ding, ding!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_Y",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.0
+    },
+    {
+     "who": "mimzi",
+     "text": "Y! Y is for yo-yo."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_Z",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Z is for zebra.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Z, Z, zebra!"
+    },
+    {
+     "who": "teddy",
+     "text": "Neigh!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "fade": true,
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.18
+    },
+    {
+     "id": "abc_strip",
+     "x": 0.5,
+     "y": 0.48,
+     "pop": true,
+     "scale": 0.88
+    },
+    {
+     "id": "teddy",
+     "x": 0.86
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Yay! We learned A to Z!"
+    },
+    {
+     "who": "narrator",
+     "text": "Let's say them all together. A, B, C, D, E, F, G. H, I, J, K, L, M, N, O, P. Q, R, S, T, U, V. W, X, Y, and Z!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, let's learn our first words. Bye bye!",
+     "pause": 1.0
+    }
+   ]
+  }
+ ],
+ "thumbnail": {
+  "text": "Learn ABC!",
+  "badge": "Learn the Alphabet",
+  "bg": "mz_playroom",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "card_A",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}
