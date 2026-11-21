@@ -1,0 +1,310 @@
+{
+ "title": "Ocean Animals for Toddlers | Fish, Dolphin, Turtle and Whale",
+ "scenes": [
+  {
+   "bg": "mz_ocean",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Hi friends! I'm Mimzi, and this is Teddy!"
+    },
+    {
+     "who": "teddy",
+     "text": "Hello!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Let's dive under the sea! Splash!"
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.45,
+   "banner": "Ocean Animals!"
+  },
+  {
+   "bg": "mz_ocean",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:fish:fish",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look! It's a fish.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Fish!"
+    },
+    {
+     "who": "narrator",
+     "text": "The fish swims with its little fins."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_ocean",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:dolphin:dolphin",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Who is this?",
+     "pause": 1.8
+    },
+    {
+     "who": "mimzi",
+     "text": "It's a dolphin!"
+    },
+    {
+     "who": "narrator",
+     "text": "What does the dolphin say?",
+     "pause": 1.4
+    },
+    {
+     "who": "teddy",
+     "text": "Click, click, squeak!"
+    },
+    {
+     "who": "narrator",
+     "text": "The dolphin loves to jump and play."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_ocean",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:turtle:turtle",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look! It's a turtle.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Turtle!"
+    },
+    {
+     "who": "narrator",
+     "text": "The turtle has a hard shell."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_ocean",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:whale:whale",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look! It's a whale.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Whale!"
+    },
+    {
+     "who": "narrator",
+     "text": "The whale is very, very big."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_ocean",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:crab:crab",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Who is this?",
+     "pause": 1.8
+    },
+    {
+     "who": "mimzi",
+     "text": "It's a crab!"
+    },
+    {
+     "who": "narrator",
+     "text": "The crab walks sideways. Pinch, pinch!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_ocean",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:octopus:octopus",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look! It's an octopus.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Octopus!"
+    },
+    {
+     "who": "narrator",
+     "text": "The octopus has eight arms!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_ocean",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Bye bye, ocean friends!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, let's learn yummy fruits. Bye bye!",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "Under the Sea!",
+  "badge": "Ocean Animals",
+  "bg": "mz_ocean",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "w:dolphin",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}

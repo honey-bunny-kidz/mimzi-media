@@ -1,0 +1,356 @@
+{
+ "title": "Animal Dance Song for Toddlers | Move and Learn",
+ "scenes": [
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Stand up, friends! Let's dance like animals!"
+    },
+    {
+     "who": "teddy",
+     "text": "Sing along with us!"
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.45,
+   "banner": "Animal Dance Song!"
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:rabbit:hop",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Hop like a bunny, hop, hop, hop!",
+     "pause": 0.3
+    },
+    {
+     "who": "mimzi",
+     "text": "Hop like a bunny, now we stop!",
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:duck:waddle",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Waddle like a duck, quack, quack, quack!",
+     "pause": 0.3
+    },
+    {
+     "who": "mimzi",
+     "text": "Waddle forward, waddle back!",
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Dance, dance, the animal dance!",
+     "pause": 0.3
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Move your body, take a chance!",
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:elephant:stomp",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Stomp like an elephant, big and slow!",
+     "pause": 0.3
+    },
+    {
+     "who": "mimzi",
+     "text": "Stomp, stomp, stomp, here we go!",
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:fish:swim",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Swim like a fish, swish, swish, swish!",
+     "pause": 0.3
+    },
+    {
+     "who": "mimzi",
+     "text": "Wiggle your arms like a little fish!",
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Dance, dance, the animal dance!",
+     "pause": 0.3
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Move your body, take a chance!",
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:butterfly:flap",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Flap like a butterfly, fly up high!",
+     "pause": 0.3
+    },
+    {
+     "who": "mimzi",
+     "text": "Flutter, flutter, in the sky!",
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:lion:roar",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Roar like a lion, loud and proud!",
+     "pause": 0.3
+    },
+    {
+     "who": "mimzi",
+     "text": "Roar, roar, roar, nice and loud!",
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Dance, dance, the animal dance!",
+     "pause": 0.3
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Move your body, take a chance!",
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, let's sing the brush your teeth song. Bye bye!",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "Animal Dance!",
+  "badge": "Move & Learn",
+  "bg": "mz_garden",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "w:rabbit:hop",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}

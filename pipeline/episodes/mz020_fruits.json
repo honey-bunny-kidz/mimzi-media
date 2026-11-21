@@ -1,0 +1,349 @@
+{
+ "title": "Learn Fruits for Toddlers | Apple, Banana, Orange and Strawberry",
+ "scenes": [
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Hi friends! I'm Mimzi, and this is Teddy!"
+    },
+    {
+     "who": "teddy",
+     "text": "I'm hungry!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Let's learn yummy fruits!"
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.45,
+   "banner": "Yummy Fruits!"
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:apple:apple",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is an apple.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Apple! Can you say apple?",
+     "pause": 1.4
+    },
+    {
+     "who": "narrator",
+     "text": "It is red, round and crunchy."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:banana:banana",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is a banana.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Banana! Can you say banana?",
+     "pause": 1.4
+    },
+    {
+     "who": "narrator",
+     "text": "It is yellow. Peel it first!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:orange:orange",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 1.8
+    },
+    {
+     "who": "mimzi",
+     "text": "Orange!"
+    },
+    {
+     "who": "narrator",
+     "text": "It is orange and juicy."
+    },
+    {
+     "who": "teddy",
+     "text": "Yum, yum!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:strawberry:strawberry",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is a strawberry.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Strawberry! Can you say strawberry?",
+     "pause": 1.4
+    },
+    {
+     "who": "narrator",
+     "text": "It is red and sweet."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:grapes:grapes",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "These are grapes.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Grapes! Can you say grapes?",
+     "pause": 1.4
+    },
+    {
+     "who": "narrator",
+     "text": "They are small and purple."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:watermelon:watermelon",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 1.8
+    },
+    {
+     "who": "mimzi",
+     "text": "Watermelon!"
+    },
+    {
+     "who": "narrator",
+     "text": "It is green outside and red inside."
+    },
+    {
+     "who": "teddy",
+     "text": "Yum, yum!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:pear:pear",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is a pear.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Pear! Can you say pear?",
+     "pause": 1.4
+    },
+    {
+     "who": "narrator",
+     "text": "It is green and sweet."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Fruits are yummy and healthy!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, let's learn vegetables. Bye bye!",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "Yummy Fruits!",
+  "badge": "Learn Fruits",
+  "bg": "mz_kitchen",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "w:strawberry",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}

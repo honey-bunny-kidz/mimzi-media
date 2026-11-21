@@ -1,0 +1,313 @@
+{
+ "title": "Learn Vegetables for Toddlers | Carrot, Potato, Tomato and Broccoli",
+ "scenes": [
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Hi friends! I'm Mimzi, and this is Teddy!"
+    },
+    {
+     "who": "teddy",
+     "text": "I'm hungry!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Let's learn healthy vegetables!"
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.45,
+   "banner": "Healthy Vegetables!"
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:carrot:carrot",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is a carrot.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Carrot! Can you say carrot?",
+     "pause": 1.4
+    },
+    {
+     "who": "narrator",
+     "text": "It is orange and crunchy."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:potato:potato",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is a potato.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Potato! Can you say potato?",
+     "pause": 1.4
+    },
+    {
+     "who": "narrator",
+     "text": "It is brown and grows in the ground."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:tomato:tomato",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 1.8
+    },
+    {
+     "who": "mimzi",
+     "text": "Tomato!"
+    },
+    {
+     "who": "narrator",
+     "text": "It is red and round."
+    },
+    {
+     "who": "teddy",
+     "text": "Yum, yum!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:broccoli:broccoli",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is a broccoli.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Broccoli! Can you say broccoli?",
+     "pause": 1.4
+    },
+    {
+     "who": "narrator",
+     "text": "It looks like a little tree!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:corn:corn",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is a corn.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Corn! Can you say corn?",
+     "pause": 1.4
+    },
+    {
+     "who": "narrator",
+     "text": "It is yellow and sweet."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:peas:peas",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 1.8
+    },
+    {
+     "who": "mimzi",
+     "text": "Peas!"
+    },
+    {
+     "who": "narrator",
+     "text": "They are small, round and green."
+    },
+    {
+     "who": "teddy",
+     "text": "Yum, yum!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Vegetables make us big and strong!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, let's sing a good morning song. Bye bye!",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "Veggies!",
+  "badge": "Learn Vegetables",
+  "bg": "mz_kitchen",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "w:carrot",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}
