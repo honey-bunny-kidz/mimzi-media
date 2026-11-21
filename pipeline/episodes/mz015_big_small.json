@@ -1,0 +1,368 @@
+{
+ "title": "Big and Small for Toddlers | Learn Sizes with Mimzi",
+ "scenes": [
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Hi friends! Let's learn big and small!"
+    },
+    {
+     "who": "teddy",
+     "text": "I am small. Mimzi is big!"
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.45,
+   "banner": "Big and Small!"
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:big:small:ball:ball:size",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This ball is big.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "This ball is small.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Big ball, small ball!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:big:small:teddy_i:teddy_i:size",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which teddy is big?",
+     "pause": 2.0
+    },
+    {
+     "who": "mimzi",
+     "text": "This one! The big teddy!"
+    },
+    {
+     "who": "teddy",
+     "text": "And this is the small teddy."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:big:small:apple:apple:size",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This apple is big.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "This apple is small.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Big apple, small apple!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:big:small:car:car:size",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which car is big?",
+     "pause": 2.0
+    },
+    {
+     "who": "mimzi",
+     "text": "This one! The big car!"
+    },
+    {
+     "who": "teddy",
+     "text": "And this is the small car."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:big:small:balloon:balloon:size",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This balloon is big.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "This balloon is small.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Big balloon, small balloon!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:big:small:star:star:size",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which star is big?",
+     "pause": 2.0
+    },
+    {
+     "who": "mimzi",
+     "text": "This one! The big star!"
+    },
+    {
+     "who": "teddy",
+     "text": "And this is the small star."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:big:small:elephant:ladybug",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "An elephant is big. A ladybug is small.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Big elephant, tiny ladybug!"
+    },
+    {
+     "who": "teddy",
+     "text": "Stomp, stomp! Buzz, buzz!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Make yourself big!",
+     "pause": 1.4
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Big, big, big! Stretch up high!",
+     "pause": 0.6
+    },
+    {
+     "who": "narrator",
+     "text": "Now make yourself small!",
+     "pause": 1.4
+    },
+    {
+     "who": "teddy",
+     "text": "Small, small, small! Curl up tiny!",
+     "pause": 0.6
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, let's learn opposites. Bye bye!",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "Big or Small?",
+  "badge": "Learn Sizes",
+  "bg": "mz_playroom",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "o:big:small:ball:ball:size",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}

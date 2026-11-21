@@ -279,7 +279,7 @@ def ep11():
             ("heart", "heart"), ("fish", "fish"), ("teddy_i", "teddy")]
     sc = [intro(bg, "Numbers 1 to 10!", [L(MW, "Hi friends! Let's count our toys from one to ten!"), L(T, "Count with us!")], prop="nn:1")]
     for n, (ic, nm) in enumerate(objs, 1):
-        pl = nm if n == 1 else (nm + "s" if nm != "teddy" else "teddies")
+        pl = nm if n == 1 or nm == "fish" else (nm + "s" if nm != "teddy" else "teddies")
         count = ", ".join(NUMW[k].capitalize() for k in range(1, n + 1))
         lines = [L(N, f"Number {NUMW[n]}.", 0.5), L(M, f"{count}!", 0.3), L(N, f"{NUMW[n].capitalize()} {pl}!")]
         if n in (3, 6, 9):

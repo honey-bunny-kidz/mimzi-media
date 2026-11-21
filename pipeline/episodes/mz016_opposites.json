@@ -1,0 +1,397 @@
+{
+ "title": "Learn Opposites for Toddlers | Up and Down, Hot and Cold, Happy and Sad",
+ "scenes": [
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Hi friends! Let's learn opposites!"
+    },
+    {
+     "who": "teddy",
+     "text": "Up and down! Hot and cold!"
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.45,
+   "banner": "Learn Opposites!"
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:up:down:balloon:ball",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The balloon goes up, up, up!",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "The ball falls down, down, down!",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Up and down! They are opposites!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:hot:cold:cocoa:snowman",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The cocoa is hot.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "The snowman is cold. Brrr!",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Hot and cold! They are opposites!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:happy:sad:happy:sad",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This face is happy.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "This face is sad.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Happy and sad! They are opposites!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:open:closed:box_open:box_closed",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The box is open.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "The box is closed.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Open and closed! They are opposites!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:full:empty:cup_full:cup_empty",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The cup is full.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "The cup is empty.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Full and empty! They are opposites!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:day:night:sun:moon",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the day, the sun shines.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "At night, the moon glows.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Day and night! They are opposites!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:fast:slow:car:snail",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The car is fast. Zoom!",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "The snail is slow.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Fast and slow! They are opposites!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:hot:cold:cocoa:snowman",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is the opposite of hot?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Cold!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:fast:slow:car:snail",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is the opposite of fast?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Slow!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, let's visit the farm animals. Bye bye!",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "Opposites!",
+  "badge": "Up & Down, Hot & Cold",
+  "bg": "mz_playroom",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "o:hot:cold:cocoa:snowman",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}
