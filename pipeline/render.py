@@ -2,7 +2,7 @@
 import json, math, os, re, subprocess, sys, textwrap
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
-import art, tts, mzart, thumbnail
+import art, tts, mzart, mzlib, thumbnail
 COVER = 0.5  # seconds the thumbnail is shown as the opening frame
 
 FPS = 30
@@ -293,6 +293,7 @@ def build_timeline(ep):
                 t += len(a) / SR + ln.get("pause", 0.5)
                 continue
             v, sp, *pt = VOICES[ln["who"]]
+            sp = sp * ln.get("speed", ep.get("speed", 1.0))
             for k, s in enumerate(sentences(ln["text"])):
                 a = tts.synth(s, v, sp, pt[0] if pt else 1.0)
                 if ln["who"] in KIDS:
@@ -432,7 +433,7 @@ def render(ep_path, out_path, vertical=False):
     W, H = (1080, 1920) if vertical else (1920, 1080)
     scenes, voice, total = build_timeline(ep)
     print("duration", round(total, 1), "s; unknown words:", sorted(tts.MISSING), flush=True)
-    mus = music(len(voice) / SR + 0.1)[: len(voice)]
+    mus = (music_lullaby if ep.get("music") == "lullaby" else music)(len(voice) / SR + 0.1)[: len(voice)]
     mus = np.pad(mus, (0, len(voice) - len(mus)))
     mix = voice / (np.abs(voice).max() + 1e-9) * 0.92 + mus * 0.11
     thumb_path = re.sub(r'\.mp4$', '', out_path) + '_thumb.jpg'

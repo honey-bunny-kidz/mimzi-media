@@ -1,0 +1,491 @@
+{
+ "title": "Learn Animal Names and Sounds | First Animal Words for Toddlers",
+ "scenes": [
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Hi friends! I'm Mimzi, and this is Teddy!"
+    },
+    {
+     "who": "teddy",
+     "text": "Hello!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Let's meet some animals and hear what they say!"
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.45,
+   "banner": "Animal Names and Sounds"
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:cat:cat",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look! It's a cat.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Cat!"
+    },
+    {
+     "who": "narrator",
+     "text": "What does the cat say?",
+     "pause": 1.4
+    },
+    {
+     "who": "teddy",
+     "text": "Meow, meow!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:dog:dog",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Who is this?",
+     "pause": 1.8
+    },
+    {
+     "who": "mimzi",
+     "text": "It's a dog!"
+    },
+    {
+     "who": "narrator",
+     "text": "What does the dog say?",
+     "pause": 1.4
+    },
+    {
+     "who": "teddy",
+     "text": "Woof, woof!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:cow:cow",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look! It's a cow.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Cow!"
+    },
+    {
+     "who": "narrator",
+     "text": "What does the cow say?",
+     "pause": 1.4
+    },
+    {
+     "who": "teddy",
+     "text": "Moo!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:duck:duck",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look! It's a duck.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Duck!"
+    },
+    {
+     "who": "narrator",
+     "text": "What does the duck say?",
+     "pause": 1.4
+    },
+    {
+     "who": "teddy",
+     "text": "Quack, quack!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:sheep:sheep",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Who is this?",
+     "pause": 1.8
+    },
+    {
+     "who": "mimzi",
+     "text": "It's a sheep!"
+    },
+    {
+     "who": "narrator",
+     "text": "What does the sheep say?",
+     "pause": 1.4
+    },
+    {
+     "who": "teddy",
+     "text": "Baa, baa!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:pig:pig",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look! It's a pig.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Pig!"
+    },
+    {
+     "who": "narrator",
+     "text": "What does the pig say?",
+     "pause": 1.4
+    },
+    {
+     "who": "teddy",
+     "text": "Oink, oink!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:horse:horse",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look! It's a horse.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Horse!"
+    },
+    {
+     "who": "narrator",
+     "text": "What does the horse say?",
+     "pause": 1.4
+    },
+    {
+     "who": "teddy",
+     "text": "Neigh!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:lion:lion",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Who is this?",
+     "pause": 1.8
+    },
+    {
+     "who": "mimzi",
+     "text": "It's a lion!"
+    },
+    {
+     "who": "narrator",
+     "text": "What does the lion say?",
+     "pause": 1.4
+    },
+    {
+     "who": "teddy",
+     "text": "Roar!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:bee:bee",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look! It's a bee.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Bee!"
+    },
+    {
+     "who": "narrator",
+     "text": "What does the bee say?",
+     "pause": 1.4
+    },
+    {
+     "who": "teddy",
+     "text": "Buzz, buzz!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:chick:chick",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look! It's a chick.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Chick!"
+    },
+    {
+     "who": "narrator",
+     "text": "What does the chick say?",
+     "pause": 1.4
+    },
+    {
+     "who": "teddy",
+     "text": "Cheep, cheep!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Yay! We met so many animals!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, let's learn our body parts. Bye bye!",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "Animal Sounds!",
+  "badge": "Moo! Woof! Quack!",
+  "bg": "mz_garden",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "w:cow",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}

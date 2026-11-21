@@ -1,0 +1,373 @@
+{
+ "title": "First English Words for Toddlers | Hello, Goodbye and Thank You",
+ "scenes": [
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Hi friends! Let's learn kind words to say."
+    },
+    {
+     "who": "teddy",
+     "text": "Hello, everyone!"
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.45,
+   "banner": "Hello, Goodbye and Thank You!"
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "t:Hello!:wave",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "We say hello when we see a friend.",
+     "pause": 0.5
+    },
+    {
+     "who": "narrator",
+     "text": "Can you say hello?",
+     "pause": 1.6
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Hello, Teddy!"
+    },
+    {
+     "who": "teddy",
+     "text": "Hello, Mimzi!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "t:Good morning!:sun",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "We say good morning when we wake up.",
+     "pause": 0.5
+    },
+    {
+     "who": "narrator",
+     "text": "Can you say good morning?",
+     "pause": 1.6
+    },
+    {
+     "who": "mimzi",
+     "text": "Good morning, sunshine!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "t:Please:gift",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "We say please when we want something.",
+     "pause": 0.5
+    },
+    {
+     "who": "narrator",
+     "text": "Can you say please?",
+     "pause": 1.6
+    },
+    {
+     "who": "teddy",
+     "text": "Can I have a cookie, please?"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "t:Thank you!:heart",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "We say thank you when someone helps us.",
+     "pause": 0.5
+    },
+    {
+     "who": "narrator",
+     "text": "Can you say thank you?",
+     "pause": 1.6
+    },
+    {
+     "who": "teddy",
+     "text": "Thank you, Mimzi!"
+    },
+    {
+     "who": "mimzi",
+     "text": "You're welcome, Teddy!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "t:Sorry:sad",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "We say sorry when we make a mistake.",
+     "pause": 0.5
+    },
+    {
+     "who": "narrator",
+     "text": "Can you say sorry?",
+     "pause": 1.6
+    },
+    {
+     "who": "mimzi",
+     "text": "Oops! I'm sorry, Teddy."
+    },
+    {
+     "who": "teddy",
+     "text": "That's okay!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "t:Goodbye!:wave",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "We say goodbye when a friend goes home.",
+     "pause": 0.5
+    },
+    {
+     "who": "narrator",
+     "text": "Can you say goodbye?",
+     "pause": 1.6
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Goodbye, Teddy! See you soon!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "t:Good night!:moon",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "We say good night at bedtime.",
+     "pause": 0.5
+    },
+    {
+     "who": "narrator",
+     "text": "Can you say good night?",
+     "pause": 1.6
+    },
+    {
+     "who": "mimzi",
+     "text": "Good night, Teddy. Sweet dreams."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Let's say them all together!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Hello! Good morning! Please! Thank you! Sorry! Goodbye! Good night!",
+     "pause": 0.6
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, let's play find the missing letter. Bye bye!",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "Hello!",
+  "badge": "Kind Words",
+  "bg": "mz_playroom",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "t:Hello!:wave",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}

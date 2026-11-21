@@ -7,7 +7,7 @@ Missing fields fall back to the episode title / first non-title scene.
 """
 import json, sys, textwrap
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
-import art, mzart
+import art, mzart, mzlib
 
 FONT = "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"
 BADGE_COLORS = {"learn": (0, 160, 165), "bedtime": (120, 90, 220), "rhyme": (240, 110, 60), "adventure": (40, 170, 120), "kids": (30, 150, 215)}

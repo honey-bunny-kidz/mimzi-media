@@ -19,7 +19,7 @@ tts.VOICES["mz_narr"] = 0.70 * tts.VOICES["af_heart"] + 0.30 * tts.VOICES["af_be
 tts.VOICES["kid_mimzi"] = 0.60 * tts.VOICES["af_jessica"] + 0.25 * tts.VOICES["af_sky"] + 0.15 * tts.VOICES["af_nicole"]
 tts.VOICES["kid_teddy"] = 0.55 * tts.VOICES["am_eric"] + 0.45 * tts.VOICES["af_jessica"]
 tts.D.update({"Mimzi": "mˈɪmzi", "Mimzi's": "mˈɪmziz", "yoyo": "jˈOjˌO", "Yoyo": "jˈOjˌO", "ABC": "ˌAbˌisˈi", "ABCs": "ˌAbˌisˈiz",
-              "Yippee": "jˈɪpi", "yippee": "jˈɪpi", "Wow": "wˈW", "wow": "wˈW"})
+              "Yippee": "jˈɪpi", "yippee": "jˈɪpi", "Wow": "wˈW", "wow": "wˈW", "broccoli": "bɹˈɑkəli", "Broccoli": "bɹˈɑkəli", "teddies": "tˈɛdiz"})
 
 
 def brown_eye(d, x, y, r, state):
