@@ -1,0 +1,296 @@
+{
+ "title": "Sharing Is Caring | A Short Educational Story for Toddlers",
+ "scenes": [
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.25
+    },
+    {
+     "id": "i:ball:0.2",
+     "x": 0.5
+    },
+    {
+     "id": "teddy",
+     "x": 0.8
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Mimzi has a new red ball."
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Look at my bouncy ball! Boing, boing!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "banner": "Mimzi Learns to Share"
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.25
+    },
+    {
+     "id": "i:ball:0.2",
+     "x": 0.4
+    },
+    {
+     "id": "teddy",
+     "x": 0.8
+    }
+   ],
+   "lines": [
+    {
+     "who": "teddy",
+     "text": "Can I play with the ball too, Mimzi?"
+    },
+    {
+     "who": "mimzi",
+     "text": "No! It's mine!"
+    },
+    {
+     "who": "narrator",
+     "text": "Oh no. Teddy feels sad.",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.25
+    },
+    {
+     "id": "i:sad:0.22",
+     "x": 0.55,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.8
+    }
+   ],
+   "lines": [
+    {
+     "who": "teddy",
+     "text": "I just want to play.",
+     "pause": 0.8
+    },
+    {
+     "who": "narrator",
+     "text": "How do you think Teddy feels?",
+     "pause": 2.0
+    },
+    {
+     "who": "narrator",
+     "text": "Teddy feels sad."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.25
+    },
+    {
+     "id": "i:heart:0.2",
+     "x": 0.55,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.8
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Mimzi thinks for a moment.",
+     "pause": 0.8
+    },
+    {
+     "who": "mimzi",
+     "text": "Hmm. Playing alone is not much fun."
+    },
+    {
+     "who": "mimzi",
+     "text": "Teddy, do you want to play with me?"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.25
+    },
+    {
+     "id": "i:ball:0.2",
+     "x": 0.55
+    },
+    {
+     "id": "teddy",
+     "x": 0.8
+    }
+   ],
+   "lines": [
+    {
+     "who": "teddy",
+     "text": "Yes, please! Thank you, Mimzi!"
+    },
+    {
+     "who": "narrator",
+     "text": "Mimzi rolls the ball to Teddy. Roll, roll!"
+    },
+    {
+     "who": "teddy",
+     "text": "And I roll it back to you!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.25
+    },
+    {
+     "id": "i:happy:0.22",
+     "x": 0.55,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.8
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Taking turns is so much fun!"
+    },
+    {
+     "who": "narrator",
+     "text": "Now Mimzi and Teddy are both happy."
+    },
+    {
+     "who": "mimzi",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.25
+    },
+    {
+     "id": "t:Sharing is caring!:heart",
+     "x": 0.55,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.82
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "When we share, our friends feel happy, and we do too."
+    },
+    {
+     "who": "mimzi",
+     "text": "Sharing is caring!"
+    },
+    {
+     "who": "teddy",
+     "text": "Sharing is caring!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, watch me brush my teeth. Bye bye!",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "Let's Share!",
+  "badge": "Kindness Story",
+  "bg": "mz_playroom",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "i:heart",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}
