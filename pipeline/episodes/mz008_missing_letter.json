@@ -1,0 +1,702 @@
+{
+ "title": "ABC Learning Game for Toddlers | Find the Missing Letter",
+ "scenes": [
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.2
+    },
+    {
+     "id": "q",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Hi friends! Let's play a letter game!"
+    },
+    {
+     "who": "teddy",
+     "text": "One letter is hiding. Can you find it?"
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.45,
+   "banner": "Find the Missing Letter!"
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "seq:A,B,_",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A, B, what?",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "Which letter is missing?",
+     "pause": 2.6
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_C",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's C!"
+    },
+    {
+     "who": "teddy",
+     "text": "A, B, C!"
+    },
+    {
+     "who": "narrator",
+     "text": "Well done!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "seq:D,E,_",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "D, E, what?",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "Which letter is missing?",
+     "pause": 2.6
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_F",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's F!"
+    },
+    {
+     "who": "teddy",
+     "text": "D, E, F!"
+    },
+    {
+     "who": "narrator",
+     "text": "Well done!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "seq:_,H,I",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "what, H, I?",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "Which letter is missing?",
+     "pause": 2.6
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_G",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's G!"
+    },
+    {
+     "who": "teddy",
+     "text": "G, H, I!"
+    },
+    {
+     "who": "mimzi",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "seq:J,_,L",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "J, what, L?",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "Which letter is missing?",
+     "pause": 2.6
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_K",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's K!"
+    },
+    {
+     "who": "teddy",
+     "text": "J, K, L!"
+    },
+    {
+     "who": "narrator",
+     "text": "Well done!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "seq:M,N,_",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "M, N, what?",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "Which letter is missing?",
+     "pause": 2.6
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_O",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's O!"
+    },
+    {
+     "who": "teddy",
+     "text": "M, N, O!"
+    },
+    {
+     "who": "narrator",
+     "text": "Well done!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "seq:_,Q,R",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "what, Q, R?",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "Which letter is missing?",
+     "pause": 2.6
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_P",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's P!"
+    },
+    {
+     "who": "teddy",
+     "text": "P, Q, R!"
+    },
+    {
+     "who": "mimzi",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "seq:S,T,_",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "S, T, what?",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "Which letter is missing?",
+     "pause": 2.6
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_U",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's U!"
+    },
+    {
+     "who": "teddy",
+     "text": "S, T, U!"
+    },
+    {
+     "who": "narrator",
+     "text": "Well done!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "seq:V,_,X",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "V, what, X?",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "Which letter is missing?",
+     "pause": 2.6
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_W",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's W!"
+    },
+    {
+     "who": "teddy",
+     "text": "V, W, X!"
+    },
+    {
+     "who": "narrator",
+     "text": "Well done!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "seq:X,Y,_",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "X, Y, what?",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "Which letter is missing?",
+     "pause": 2.6
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_Z",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's Z!"
+    },
+    {
+     "who": "teddy",
+     "text": "X, Y, Z!"
+    },
+    {
+     "who": "mimzi",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.18
+    },
+    {
+     "id": "abc_strip",
+     "x": 0.5,
+     "pop": true,
+     "y": 0.48,
+     "scale": 0.88
+    },
+    {
+     "id": "teddy",
+     "x": 0.86
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "You found every missing letter!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, let's read my picture dictionary. Bye bye!",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "Missing Letter?",
+  "badge": "ABC Game",
+  "bg": "mz_playroom",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "q",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}

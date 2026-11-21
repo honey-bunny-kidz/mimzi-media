@@ -1,0 +1,500 @@
+{
+ "title": "Learn Numbers 1–10 for Toddlers | Count with Mimzi",
+ "scenes": [
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.2
+    },
+    {
+     "id": "nn:1",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Hi friends! Let's count our toys from one to ten!"
+    },
+    {
+     "who": "teddy",
+     "text": "Count with us!"
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.45,
+   "banner": "Numbers 1 to 10!"
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:1:ball",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Number one.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "One!",
+     "pause": 0.3
+    },
+    {
+     "who": "narrator",
+     "text": "One ball!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:2:block",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Number two.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "One, Two!",
+     "pause": 0.3
+    },
+    {
+     "who": "narrator",
+     "text": "Two blocks!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:3:duck",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Number three.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "One, Two, Three!",
+     "pause": 0.3
+    },
+    {
+     "who": "narrator",
+     "text": "Three ducks!"
+    },
+    {
+     "who": "mimzi",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:4:star",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Number four.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "One, Two, Three, Four!",
+     "pause": 0.3
+    },
+    {
+     "who": "narrator",
+     "text": "Four stars!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:5:apple",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Number five.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "One, Two, Three, Four, Five!",
+     "pause": 0.3
+    },
+    {
+     "who": "narrator",
+     "text": "Five apples!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:6:car",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Number six.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "One, Two, Three, Four, Five, Six!",
+     "pause": 0.3
+    },
+    {
+     "who": "narrator",
+     "text": "Six cars!"
+    },
+    {
+     "who": "mimzi",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:7:balloon",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Number seven.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "One, Two, Three, Four, Five, Six, Seven!",
+     "pause": 0.3
+    },
+    {
+     "who": "narrator",
+     "text": "Seven balloons!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:8:heart",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Number eight.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "One, Two, Three, Four, Five, Six, Seven, Eight!",
+     "pause": 0.3
+    },
+    {
+     "who": "narrator",
+     "text": "Eight hearts!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:9:fish",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Number nine.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "One, Two, Three, Four, Five, Six, Seven, Eight, Nine!",
+     "pause": 0.3
+    },
+    {
+     "who": "narrator",
+     "text": "Nine fish!"
+    },
+    {
+     "who": "mimzi",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:10:teddy_i",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Number ten.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten!",
+     "pause": 0.3
+    },
+    {
+     "who": "narrator",
+     "text": "Ten teddies!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "nn:10",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Let's count to ten together!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "One, two, three, four, five, six, seven, eight, nine, ten!",
+     "pause": 0.6
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, let's count to twenty with cute animals. Bye bye!",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "Count to 10!",
+  "badge": "Numbers 1–10",
+  "bg": "mz_playroom",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "n:3:duck",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}

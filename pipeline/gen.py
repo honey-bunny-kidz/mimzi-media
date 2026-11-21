@@ -518,7 +518,7 @@ def ep27():
 
 def ep28():
     sc = [S("mz_bedroom", [{"id": MW, "x": 0.3}, {"id": T, "x": 0.6}], [L(N, "Good morning! Mimzi wakes up and stretches."), L(MW, "Good morning, Teddy! Yawn!"), L(T, "Good morning! Time to brush your teeth!")], banner="Mimzi Brushes Her Teeth"),
-          S("mz_bathroom", trio("w:toothbrush"), [L(N, "Mimzi goes to the bathroom and gets her toothbrush."), L(M, "Here's my pink toothbrush!")]),
+          S("mz_bathroom", trio("w:toothbrush"), [L(N, "Mimzi goes to the bathroom and gets her toothbrush."), L(M, "Here's my blue toothbrush!")]),
           S("mz_bathroom", trio("w:toothpaste"), [L(N, "She squeezes a tiny dot of toothpaste. As small as a pea."), L(M, "Just a little bit!")]),
           S("mz_bathroom", trio("w:mouth:teeth"), [L(N, "Brush, brush, brush. Up and down on the top teeth.", 0.3), {"who": M, "sfx": "brush", "text": "", "dur": 2.0, "pause": 0.3},
                                                    L(N, "Brush, brush, brush. Round and round on the bottom teeth.", 0.3), {"who": M, "sfx": "brush", "text": "", "dur": 2.0, "pause": 0.3}]),

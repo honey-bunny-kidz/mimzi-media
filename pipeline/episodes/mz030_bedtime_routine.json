@@ -1,0 +1,277 @@
+{
+ "title": "Bedtime Routine for Toddlers | A Sweet Good Night Story",
+ "scenes": [
+  {
+   "bg": "mz_bedroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.65
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The sun is going down. It's almost bedtime for Mimzi."
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Teddy, is it bedtime already?"
+    },
+    {
+     "who": "teddy",
+     "text": "Yes! Let's get ready!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "banner": "Mimzi's Bedtime Routine"
+  },
+  {
+   "bg": "mz_bedroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:toybox:toys away",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "First, Mimzi puts her toys away."
+    },
+    {
+     "who": "mimzi",
+     "text": "Good night, toys!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_bedroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:pajamas",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next, she puts on her cozy pajamas."
+    },
+    {
+     "who": "mimzi",
+     "text": "My pajamas have little stars!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:toothbrush",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then she brushes her teeth. Brush, brush, brush!"
+    },
+    {
+     "who": "mimzi",
+     "sfx": "brush",
+     "text": "",
+     "dur": 1.8,
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_bedroom_night",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:book:story time",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now it's story time. Mimzi picks her favorite book."
+    },
+    {
+     "who": "teddy",
+     "text": "Read it again, please!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_bedroom_night",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:heart:hugs",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A big hug and a kiss good night."
+    },
+    {
+     "who": "mimzi",
+     "text": "I love you, Teddy."
+    },
+    {
+     "who": "teddy",
+     "text": "I love you too, Mimzi."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_bedroom_night",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:moon:lights off",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Lights off. The moon is shining. The stars are twinkling."
+    },
+    {
+     "who": "mimzi",
+     "text": "Good night, moon. Good night, stars.",
+     "pause": 0.8
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_bedroom_night",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Toys away, pajamas on, brush teeth, story, hugs, and sleep."
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!",
+     "pause": 0.6
+    },
+    {
+     "who": "mimzi",
+     "text": "Good night, friends. See you tomorrow!",
+     "pause": 1.5
+    }
+   ],
+   "lead": 0.35,
+   "tail": 1.2,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "Good Night!",
+  "badge": "Bedtime Story",
+  "bg": "mz_bedroom_night",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "w:moon",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ },
+ "speed": 0.95
+}
