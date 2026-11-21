@@ -1,0 +1,287 @@
+{
+ "title": "Brushing Teeth for Toddlers | Fun Daily Routine Story",
+ "scenes": [
+  {
+   "bg": "mz_bedroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.6
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Good morning! Mimzi wakes up and stretches."
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Good morning, Teddy! Yawn!"
+    },
+    {
+     "who": "teddy",
+     "text": "Good morning! Time to brush your teeth!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "banner": "Mimzi Brushes Her Teeth"
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:toothbrush",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Mimzi goes to the bathroom and gets her toothbrush."
+    },
+    {
+     "who": "mimzi",
+     "text": "Here's my blue toothbrush!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:toothpaste",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "She squeezes a tiny dot of toothpaste. As small as a pea."
+    },
+    {
+     "who": "mimzi",
+     "text": "Just a little bit!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:mouth:teeth",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Brush, brush, brush. Up and down on the top teeth.",
+     "pause": 0.3
+    },
+    {
+     "who": "mimzi",
+     "sfx": "brush",
+     "text": "",
+     "dur": 2.0,
+     "pause": 0.3
+    },
+    {
+     "who": "narrator",
+     "text": "Brush, brush, brush. Round and round on the bottom teeth.",
+     "pause": 0.3
+    },
+    {
+     "who": "mimzi",
+     "sfx": "brush",
+     "text": "",
+     "dur": 2.0,
+     "pause": 0.3
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:happy:smile",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Don't forget the back teeth, and the front teeth too!"
+    },
+    {
+     "who": "teddy",
+     "text": "Let's count while we brush. One, two, three, four, five!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:water:rinse",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Spit, then rinse with a little water."
+    },
+    {
+     "who": "mimzi",
+     "text": "Spit, splash, all clean!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:happy:smile",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Look at my shiny teeth!"
+    },
+    {
+     "who": "teddy",
+     "text": "Wow! Sparkly clean!"
+    },
+    {
+     "who": "narrator",
+     "text": "We brush our teeth in the morning, and at night before bed."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, let's wash our hands together. Bye bye!",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "Brush Teeth!",
+  "badge": "Daily Routine Story",
+  "bg": "mz_bathroom",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "w:toothbrush",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}
