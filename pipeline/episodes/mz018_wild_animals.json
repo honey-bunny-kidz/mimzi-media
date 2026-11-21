@@ -1,0 +1,293 @@
+{
+ "title": "Wild Animals for Toddlers | Lion, Elephant, Giraffe and Zebra",
+ "scenes": [
+  {
+   "bg": "mz_savanna",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Hi friends! I'm Mimzi, and this is Teddy!"
+    },
+    {
+     "who": "teddy",
+     "text": "Hello!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Let's go on a safari and meet the wild animals!"
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.45,
+   "banner": "Wild Animals!"
+  },
+  {
+   "bg": "mz_savanna",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:lion:lion",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look! It's a lion.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Lion!"
+    },
+    {
+     "who": "narrator",
+     "text": "What does the lion say?",
+     "pause": 1.4
+    },
+    {
+     "who": "teddy",
+     "text": "Roar!"
+    },
+    {
+     "who": "narrator",
+     "text": "The lion is the king of the jungle."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_savanna",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:elephant:elephant",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Who is this?",
+     "pause": 1.8
+    },
+    {
+     "who": "mimzi",
+     "text": "It's an elephant!"
+    },
+    {
+     "who": "narrator",
+     "text": "What does the elephant say?",
+     "pause": 1.4
+    },
+    {
+     "who": "teddy",
+     "text": "Toot, toot!"
+    },
+    {
+     "who": "narrator",
+     "text": "The elephant has a long trunk."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_savanna",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:giraffe:giraffe",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look! It's a giraffe.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Giraffe!"
+    },
+    {
+     "who": "narrator",
+     "text": "The giraffe has a long, long neck."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_savanna",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:zebra:zebra",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look! It's a zebra.",
+     "pause": 0.5
+    },
+    {
+     "who": "mimzi",
+     "text": "Zebra!"
+    },
+    {
+     "who": "narrator",
+     "text": "The zebra has black and white stripes."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_savanna",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:monkey:monkey",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Who is this?",
+     "pause": 1.8
+    },
+    {
+     "who": "mimzi",
+     "text": "It's a monkey!"
+    },
+    {
+     "who": "narrator",
+     "text": "What does the monkey say?",
+     "pause": 1.4
+    },
+    {
+     "who": "teddy",
+     "text": "Ooh, ooh, ah, ah!"
+    },
+    {
+     "who": "narrator",
+     "text": "The monkey loves bananas."
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_savanna",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Wow! The wild animals are amazing!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, let's dive under the sea. Bye bye!",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "Wild Animals!",
+  "badge": "Safari Fun",
+  "bg": "mz_savanna",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "w:lion",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}
