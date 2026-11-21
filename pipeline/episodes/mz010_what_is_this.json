@@ -1,0 +1,712 @@
+{
+ "title": "Learn English Words for Toddlers | What Is This? Guessing Game",
+ "scenes": [
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.2
+    },
+    {
+     "id": "q",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Hi friends! Let's play a guessing game!"
+    },
+    {
+     "who": "teddy",
+     "text": "Listen to the clue, then guess!"
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.45,
+   "banner": "What Is This? Guessing Game"
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "q",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It says moo!",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.4
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:cow:cow",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's a cow!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "q",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It is yellow and yummy.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.4
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:banana:banana",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's a banana!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "q",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It goes beep, beep!",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.4
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:car:car",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's a car!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "q",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It swims in the water.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.4
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:fish:fish",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's a fish!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "q",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It shines in the sky.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.4
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:sun:sun",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's the sun!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "q",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "You can bounce it and roll it.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.4
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:ball:ball",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's a ball!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "q",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It says quack, quack!",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.4
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:duck:duck",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's a duck!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "q",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "We brush our teeth with it.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.4
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:toothbrush:toothbrush",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's a toothbrush!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "q",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It twinkles at night.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.4
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:star:star",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's a star!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "q",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "We sleep in it at night.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.4
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:bed:bed",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "It's a bed!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.25,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "You are a super guesser!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, let's count from one to ten. Bye bye!",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "What Is This?",
+  "badge": "Guessing Game",
+  "bg": "mz_playroom",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "q",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}

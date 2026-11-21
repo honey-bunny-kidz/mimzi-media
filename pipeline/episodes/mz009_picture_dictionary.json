@@ -1,0 +1,849 @@
+{
+ "title": "20 First English Words for Toddlers | Picture Vocabulary Book",
+ "scenes": [
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.2
+    },
+    {
+     "id": "i:book:0.3",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Hi friends! Let's open our picture dictionary."
+    },
+    {
+     "who": "teddy",
+     "text": "Twenty words! Ready?"
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.45,
+   "banner": "My First Picture Dictionary"
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:apple:apple",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Apple.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Apple.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "An apple."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:banana:banana",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Banana.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Banana.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A banana."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:ball:ball",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ball.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Ball.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A ball."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:book:book",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Book.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Book.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A book."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:cup:cup",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Cup.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Cup.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A cup."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:car:car",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Car.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Car.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A car."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:cat:cat",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Cat.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Cat.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A cat."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:dog:dog",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Dog.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Dog.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A dog."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:duck:duck",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Duck.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Duck.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A duck."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:fish:fish",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Fish.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Fish.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A fish."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Ten words already! Wow!"
+    },
+    {
+     "who": "teddy",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    },
+    {
+     "who": "teddy",
+     "text": "Ten more!"
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:shoe:shoe",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Shoe.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Shoe.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A shoe."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:hat:hat",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hat.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Hat.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A hat."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:bed:bed",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Bed.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Bed.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A bed."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:chair:chair",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chair.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Chair.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A chair."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:sun:sun",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sun.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Sun.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "The sun."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:moon:moon",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Moon.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Moon.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "The moon."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:star:star",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Star.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Star.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A star."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:tree:tree",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tree.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Tree.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A tree."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:balloon:balloon",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Balloon.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Balloon.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A balloon."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:clock:clock",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Clock.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Clock.",
+     "pause": 0.4
+    },
+    {
+     "who": "narrator",
+     "text": "A clock."
+    }
+   ],
+   "lead": 0.3,
+   "tail": 0.35
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.18
+    },
+    {
+     "id": "i:book:0.3",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.86
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "We read our whole picture dictionary!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job, little learner!"
+    },
+    {
+     "who": "narrator",
+     "text": "Share Mimzi with a friend, and subscribe for more learning fun!"
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Next time, let's play a guessing game. What is this? Bye bye!",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.35,
+   "tail": 0.45,
+   "fade": true
+  }
+ ],
+ "thumbnail": {
+  "text": "20 Words!",
+  "badge": "Picture Dictionary",
+  "bg": "mz_playroom",
+  "cast": [
+   {
+    "id": "mimzi",
+    "mouth": 2,
+    "x": 0.6
+   },
+   {
+    "id": "w:balloon",
+    "scale": 0.72,
+    "x": 0.86
+   },
+   {
+    "id": "teddy",
+    "x": 0.95
+   }
+  ]
+ }
+}

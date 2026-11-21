@@ -39,6 +39,8 @@ def intro(bg, banner, lines, prop=None):
 
 def outro(bg, teaser, extra=None, prop=None):
     cast = duo() if not prop else [{"id": MW, "x": 0.18}, {"id": prop, "x": 0.52, "pop": True}, {"id": T, "x": 0.86}]
+    if prop == "abc_strip":
+        cast[1].update(x=0.5, y=0.48, scale=0.88)
     lines = (extra or []) + [L(T, "Great job, little learner!"), L(N, SHARE), L(MW, teaser + " Bye bye!", 1.0)]
     return S(bg, cast, lines, fade=True)
 
