@@ -23,8 +23,8 @@
      "text": "Sing along with us!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.45,
+   "lead": 0.44999999999999996,
+   "tail": 0.65,
    "banner": "Good Morning Song!"
   },
   {
@@ -48,16 +48,16 @@
     {
      "who": "mimzi",
      "text": "Good morning, sun, shining bright!",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "Good morning, sky, so blue and light!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bedroom",
@@ -80,16 +80,16 @@
     {
      "who": "mimzi",
      "text": "Good morning, Teddy, wave hi, hi, hi!",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "Good morning, friends, reach up high!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bedroom",
@@ -107,16 +107,16 @@
     {
      "who": "mimzi_wave",
      "text": "Good morning, good morning, it's a brand new day!",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi_wave",
      "text": "Good morning, good morning, let's go out and play!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bedroom",
@@ -139,16 +139,16 @@
     {
      "who": "mimzi",
      "text": "Splash, splash, wash my face.",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "Fresh and clean, a happy face!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bedroom",
@@ -171,16 +171,16 @@
     {
      "who": "mimzi",
      "text": "Brush, brush, brush my teeth.",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "Top and bottom, nice and neat!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bedroom",
@@ -198,16 +198,16 @@
     {
      "who": "mimzi_wave",
      "text": "Good morning, good morning, it's a brand new day!",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi_wave",
      "text": "Good morning, good morning, let's go out and play!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bedroom",
@@ -230,16 +230,16 @@
     {
      "who": "mimzi",
      "text": "Yum, yum, breakfast time.",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "Banana, toast, and milk is fine!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bedroom",
@@ -262,16 +262,16 @@
     {
      "who": "mimzi",
      "text": "Now we're ready, one, two, three.",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "A happy day for you and me!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bedroom",
@@ -289,16 +289,321 @@
     {
      "who": "mimzi_wave",
      "text": "Good morning, good morning, it's a brand new day!",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi_wave",
      "text": "Good morning, good morning, let's go out and play!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bedroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "That was fun! Let's sing it one more time, all together!"
+    },
+    {
+     "who": "teddy",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    },
+    {
+     "who": "teddy",
+     "text": "Ready? Here we go!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bedroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:sun",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Good morning, sun, shining bright!",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Good morning, sky, so blue and light!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bedroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:wave:hello",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Good morning, Teddy, wave hi, hi, hi!",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Good morning, friends, reach up high!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bedroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Good morning, good morning, it's a brand new day!",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Good morning, good morning, let's go out and play!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bedroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:water",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Splash, splash, wash my face.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Fresh and clean, a happy face!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bedroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:toothbrush",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Brush, brush, brush my teeth.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Top and bottom, nice and neat!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bedroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Good morning, good morning, it's a brand new day!",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Good morning, good morning, let's go out and play!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bedroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:banana:breakfast",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Yum, yum, breakfast time.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Banana, toast, and milk is fine!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bedroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:toybox:play",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Now we're ready, one, two, three.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "A happy day for you and me!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bedroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Good morning, good morning, it's a brand new day!",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Good morning, good morning, let's go out and play!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bedroom",
@@ -327,8 +632,8 @@
      "pause": 1.0
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45,
+   "lead": 0.5,
+   "tail": 0.65,
    "fade": true
   }
  ],

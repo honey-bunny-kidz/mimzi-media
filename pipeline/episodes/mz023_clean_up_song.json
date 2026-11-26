@@ -23,8 +23,8 @@
      "text": "Sing along with us!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.45,
+   "lead": 0.44999999999999996,
+   "tail": 0.65,
    "banner": "Clean Up Song!"
   },
   {
@@ -48,16 +48,16 @@
     {
      "who": "mimzi",
      "text": "Here's my ball, it's on the floor.",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "Into the box, and then one more!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -80,16 +80,16 @@
     {
      "who": "mimzi",
      "text": "Blocks, blocks, stack them high.",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "Into the box, wave them bye-bye!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -107,16 +107,16 @@
     {
      "who": "mimzi_wave",
      "text": "Clean up, clean up, everybody clean up!",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi_wave",
      "text": "Clean up, clean up, put your toys away!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -139,16 +139,16 @@
     {
      "who": "mimzi",
      "text": "Little teddy, time to rest.",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "Into the box, you're the best!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -171,16 +171,16 @@
     {
      "who": "mimzi",
      "text": "Zoom, zoom, my little car.",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "Into the box, you're a star!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -198,16 +198,16 @@
     {
      "who": "mimzi_wave",
      "text": "Clean up, clean up, everybody clean up!",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi_wave",
      "text": "Clean up, clean up, put your toys away!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -230,16 +230,16 @@
     {
      "who": "mimzi",
      "text": "Books go back up on the shelf.",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "I can do it by myself!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -262,16 +262,16 @@
     {
      "who": "mimzi",
      "text": "Look how tidy, look how neat!",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "Clean up time is now complete!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -289,16 +289,321 @@
     {
      "who": "mimzi_wave",
      "text": "Clean up, clean up, everybody clean up!",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi_wave",
      "text": "Clean up, clean up, put your toys away!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "That was fun! Let's sing it one more time, all together!"
+    },
+    {
+     "who": "teddy",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    },
+    {
+     "who": "teddy",
+     "text": "Ready? Here we go!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "i:ball:0.25",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Here's my ball, it's on the floor.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Into the box, and then one more!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "i:block:0.22",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Blocks, blocks, stack them high.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Into the box, wave them bye-bye!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Clean up, clean up, everybody clean up!",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Clean up, clean up, put your toys away!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "i:teddy_i:0.25",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Little teddy, time to rest.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Into the box, you're the best!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "i:car:0.22",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Zoom, zoom, my little car.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Into the box, you're a star!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Clean up, clean up, everybody clean up!",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Clean up, clean up, put your toys away!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "i:book:0.25",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Books go back up on the shelf.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "I can do it by myself!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "i:toybox:0.3",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Look how tidy, look how neat!",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Clean up time is now complete!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Clean up, clean up, everybody clean up!",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Clean up, clean up, put your toys away!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -327,8 +632,8 @@
      "pause": 1.0
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45,
+   "lead": 0.5,
+   "tail": 0.65,
    "fade": true
   }
  ],

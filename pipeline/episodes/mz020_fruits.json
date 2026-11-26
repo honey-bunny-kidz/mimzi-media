@@ -27,8 +27,8 @@
      "text": "Let's learn yummy fruits!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.45,
+   "lead": 0.44999999999999996,
+   "tail": 0.65,
    "banner": "Yummy Fruits!"
   },
   {
@@ -64,8 +64,8 @@
      "text": "It is red, round and crunchy."
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_kitchen",
@@ -100,8 +100,8 @@
      "text": "It is yellow. Peel it first!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_kitchen",
@@ -139,8 +139,8 @@
      "text": "Yum, yum!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_kitchen",
@@ -175,8 +175,8 @@
      "text": "It is red and sweet."
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_kitchen",
@@ -211,8 +211,8 @@
      "text": "They are small and purple."
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_kitchen",
@@ -250,8 +250,8 @@
      "text": "Yum, yum!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_kitchen",
@@ -286,8 +286,311 @@
      "text": "It is green and sweet."
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Now let's play a memory game!"
+    },
+    {
+     "who": "teddy",
+     "text": "Do you remember? Let's see!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65,
+   "fade": true
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:apple:apple",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Apple!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yes! Well done!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:banana:banana",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Banana!"
+    },
+    {
+     "who": "teddy",
+     "text": "That's right!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:orange:orange",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Orange!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:strawberry:strawberry",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Strawberry!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:grapes:grapes",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Grapes!"
+    },
+    {
+     "who": "teddy",
+     "text": "Super!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:watermelon:watermelon",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Watermelon!"
+    },
+    {
+     "who": "teddy",
+     "text": "Hooray!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:pear:pear",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Pear!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yes! Well done!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_kitchen",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Wow! You remembered everything!"
+    },
+    {
+     "who": "teddy",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    },
+    {
+     "who": "teddy",
+     "text": "You are a super learner!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_kitchen",
@@ -320,8 +623,8 @@
      "pause": 1.0
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45,
+   "lead": 0.5,
+   "tail": 0.65,
    "fade": true
   }
  ],
