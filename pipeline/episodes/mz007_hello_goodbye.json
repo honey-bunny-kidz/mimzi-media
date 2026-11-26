@@ -23,8 +23,8 @@
      "text": "Hello, everyone!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.45,
+   "lead": 0.44999999999999996,
+   "tail": 0.65,
    "banner": "Hello, Goodbye and Thank You!"
   },
   {
@@ -64,8 +64,8 @@
      "text": "Hello, Mimzi!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -100,8 +100,8 @@
      "text": "Good morning, sunshine!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -136,8 +136,8 @@
      "text": "Can I have a cookie, please?"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -176,8 +176,8 @@
      "text": "You're welcome, Teddy!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -216,8 +216,8 @@
      "text": "That's okay!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -252,8 +252,8 @@
      "text": "Goodbye, Teddy! See you soon!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -288,8 +288,8 @@
      "text": "Good night, Teddy. Sweet dreams."
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -314,8 +314,311 @@
      "pause": 0.6
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Now let's play a memory game!"
+    },
+    {
+     "who": "teddy",
+     "text": "Do you remember? Let's see!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65,
+   "fade": true
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "t:Hello!:wave",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do we say?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Hello!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yes! Well done!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "t:Good morning!:sun",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do we say?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Good morning!"
+    },
+    {
+     "who": "teddy",
+     "text": "That's right!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "t:Please:gift",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do we say?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Please"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "t:Thank you!:heart",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do we say?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Thank you!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "t:Sorry:sad",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do we say?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Sorry"
+    },
+    {
+     "who": "teddy",
+     "text": "Super!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "t:Goodbye!:wave",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do we say?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Goodbye!"
+    },
+    {
+     "who": "teddy",
+     "text": "Hooray!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "t:Good night!:moon",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do we say?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Good night!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yes! Well done!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Wow! You remembered everything!"
+    },
+    {
+     "who": "teddy",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    },
+    {
+     "who": "teddy",
+     "text": "You are a super learner!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -344,8 +647,8 @@
      "pause": 1.0
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45,
+   "lead": 0.5,
+   "tail": 0.65,
    "fade": true
   }
  ],

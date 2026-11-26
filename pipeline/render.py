@@ -13,7 +13,7 @@ VOICES = {"narrator": ("hb_narr", 0.90, 1.06), "mama": ("af_bella", 0.88, 1.03),
           # children: soft kid voices (blended with breathy af_nicole, pitched up, gently low-passed)
           "honey": ("kid_honey", 0.90, 1.27), "lulu": ("kid_lulu", 0.88, 1.22), "mimi": ("kid_mimi", 0.88, 1.30),
           "pip": ("kid_pip", 0.92, 1.30), "dotty": ("kid_dotty", 0.90, 1.30), "cloudy": ("kid_cloudy", 0.86, 1.20)}
-VOICES.update({"narrator": ("mz_narr", 0.90, 1.05), "mimzi": ("kid_mimzi", 0.90, 1.24), "mimzi_wave": ("kid_mimzi", 0.90, 1.24), "teddy": ("kid_teddy", 0.92, 1.24)})
+VOICES.update({"narrator": ("af_heart", 0.90, 1.0), "mimzi": ("af_sky", 0.90, 1.24), "mimzi_wave": ("af_sky", 0.90, 1.24), "teddy": ("am_michael", 0.92, 1.0)})
 KIDS = {"mimzi", "mimzi_wave", "teddy", "honey", "lulu", "mimi", "pip", "dotty", "cloudy"}
 # costume / variant sprites speak with the base character's voice
 for _k, _base in {"honey_berry": "honey", "honey_pj": "honey", "honey_rain": "honey", "pumpkinpip": "pip", "pip_fire": "pip",

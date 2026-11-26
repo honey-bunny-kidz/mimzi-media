@@ -28,8 +28,8 @@
      "text": "One letter is hiding. Can you find it?"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.45,
+   "lead": 0.44999999999999996,
+   "tail": 0.65,
    "banner": "Find the Missing Letter!"
   },
   {
@@ -61,8 +61,8 @@
      "pause": 2.6
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -95,8 +95,8 @@
      "text": "Well done!"
     }
    ],
-   "lead": 0.25,
-   "tail": 0.45
+   "lead": 0.4,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -127,8 +127,8 @@
      "pause": 2.6
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -161,8 +161,8 @@
      "text": "Well done!"
     }
    ],
-   "lead": 0.25,
-   "tail": 0.45
+   "lead": 0.4,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -193,8 +193,8 @@
      "pause": 2.6
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -230,8 +230,8 @@
      "pause": 0.3
     }
    ],
-   "lead": 0.25,
-   "tail": 0.45
+   "lead": 0.4,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -262,8 +262,8 @@
      "pause": 2.6
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -296,8 +296,8 @@
      "text": "Well done!"
     }
    ],
-   "lead": 0.25,
-   "tail": 0.45
+   "lead": 0.4,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -328,8 +328,8 @@
      "pause": 2.6
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -362,8 +362,8 @@
      "text": "Well done!"
     }
    ],
-   "lead": 0.25,
-   "tail": 0.45
+   "lead": 0.4,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -394,8 +394,8 @@
      "pause": 2.6
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -431,8 +431,8 @@
      "pause": 0.3
     }
    ],
-   "lead": 0.25,
-   "tail": 0.45
+   "lead": 0.4,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -463,8 +463,8 @@
      "pause": 2.6
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -497,8 +497,8 @@
      "text": "Well done!"
     }
    ],
-   "lead": 0.25,
-   "tail": 0.45
+   "lead": 0.4,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -529,8 +529,8 @@
      "pause": 2.6
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -563,8 +563,8 @@
      "text": "Well done!"
     }
    ],
-   "lead": 0.25,
-   "tail": 0.45
+   "lead": 0.4,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -595,8 +595,8 @@
      "pause": 2.6
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -632,8 +632,381 @@
      "pause": 0.3
     }
    ],
-   "lead": 0.25,
-   "tail": 0.45
+   "lead": 0.4,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Now let's play a memory game!"
+    },
+    {
+     "who": "teddy",
+     "text": "Do you remember? Let's see!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65,
+   "fade": true
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_C",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "C!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yes! Well done!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_F",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "F!"
+    },
+    {
+     "who": "teddy",
+     "text": "That's right!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_G",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "G!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_K",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "K!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_O",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "O!"
+    },
+    {
+     "who": "teddy",
+     "text": "Super!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_P",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "P!"
+    },
+    {
+     "who": "teddy",
+     "text": "Hooray!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_U",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "U!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yes! Well done!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_W",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "W!"
+    },
+    {
+     "who": "teddy",
+     "text": "That's right!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "card_Z",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What letter is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Z!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Wow! You remembered everything!"
+    },
+    {
+     "who": "teddy",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    },
+    {
+     "who": "teddy",
+     "text": "You are a super learner!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -673,8 +1046,8 @@
      "pause": 1.0
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45,
+   "lead": 0.5,
+   "tail": 0.65,
    "fade": true
   }
  ],

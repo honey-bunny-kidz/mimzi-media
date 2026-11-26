@@ -83,22 +83,42 @@ def phonemize(text):
     return "".join(out).strip()
 
 
-def synth(text, voice="af_heart", speed=0.88, pitch=1.0):
+POLISH = ("highpass=f=75,equalizer=f=220:t=q:w=1.2:g=1.5,equalizer=f=3200:t=q:w=1.5:g=-1.5,highshelf=f=7500:g=-3.5,"
+          "deesser=i=0.4,acompressor=threshold=-20dB:ratio=2.2:attack=8:release=150:makeup=1.5,"
+          "aecho=0.88:0.55:28|55:0.10|0.05")
+
+
+def _ff(a, filt):
+    """Run a mono 24 kHz float signal through an ffmpeg audio filter chain."""
+    import subprocess
+    raw = np.asarray(a, dtype=np.float32).tobytes()
+    out = subprocess.run(["ffmpeg", "-loglevel", "error", "-f", "f32le", "-ar", "24000", "-ac", "1", "-i", "pipe:0",
+                          "-af", filt, "-f", "f32le", "-ar", "24000", "-ac", "1", "pipe:1"], input=raw, capture_output=True, check=True).stdout
+    return np.frombuffer(out, dtype=np.float32).astype(np.float64)
+
+
+def synth(text, voice="af_heart", speed=0.9, pitch=1.0):
+    """Natural Kokoro voice: no voice blending artefacts, formant-preserving pitch lift (rubberband) for the
+    young characters, then a soft polish (warm EQ, de-ess, gentle compression, a touch of room)."""
     global _sess
     if _sess is None:
         _sess = ort.InferenceSession(f"{ROOT}/hb/models/kokoro.onnx")
     ph = phonemize(text)
     toks = [VOCAB[c] for c in ph if c in VOCAB][:500]
     style = VOICES[voice][len(toks)]
-    speed = speed / pitch
     audio = _sess.run(None, {"tokens": np.array([[0, *toks, 0]], dtype=np.int64),
                              "style": style.astype(np.float32),
                              "speed": np.array([speed], dtype=np.float32)})[0]
     a = np.asarray(audio, dtype=np.float64).reshape(-1)
-    if pitch != 1.0:  # raise pitch by resampling (synth slower first so the pace stays the same)
-        n = int(len(a) / pitch)
-        a = np.interp(np.linspace(0, len(a) - 1, n), np.arange(len(a)), a)
-    return a
+    filt = POLISH
+    if pitch >= 1.15:  # little child: shorter vocal tract (formants up ~12%) plus a higher, formant-preserved pitch lift
+        f = 1.12
+        filt = (f"asetrate={24000 * f:.0f},aresample=24000,atempo={1 / f:.5f},"
+                f"rubberband=pitch={pitch / f:.4f}:formant=preserved:pitchq=quality:transients=smooth:detector=soft,{filt}")
+    elif pitch != 1.0:
+        filt = f"rubberband=pitch={pitch}:formant=preserved:pitchq=quality:transients=smooth:detector=soft,{filt}"
+    a = np.concatenate([a, np.zeros(int(0.12 * 24000))])  # room for the echo tail
+    return _ff(a, filt)
 
 
 def save_wav(path, audio):

@@ -19,7 +19,7 @@ def clap(who=MW):
 
 
 def S(bg, cast, lines, **kw):
-    d = {"bg": bg, "cast": cast, "lines": lines, "lead": kw.pop("lead", 0.35), "tail": kw.pop("tail", 0.45)}
+    d = {"bg": bg, "cast": cast, "lines": lines, "lead": kw.pop("lead", 0.35) + 0.15, "tail": kw.pop("tail", 0.45) + 0.2}
     d.update(kw)
     return d
 
@@ -48,7 +48,58 @@ def outro(bg, teaser, extra=None, prop=None):
 EPS = []
 
 
-def ep(num, slug, title, desc, tags, thumb, scenes, **kw):
+CHEERS = ["Yes! Well done!", "That's right!", "Great job!", "You got it!", "Super!", "Hooray!"]
+
+
+def review_q(cid, mode):
+    p = cid.split(":")
+    k = p[0]
+    if cid.startswith("card_"):
+        return "What letter is this?", f"{cid[5]}!"
+    if k == "w":
+        lab = (p[2] if len(p) > 2 else p[1]).replace("teddy_i", "teddy").replace("_", " ")
+        q = "What happened here?" if mode == "story" else "What is this?"
+        return q, f"{lab[0].upper() + lab[1:]}!"
+    if k == "n":
+        return "How many? Let's count!", ", ".join(NUMW[i] for i in range(1, int(p[1]) + 1)).capitalize() + "!" if int(p[1]) <= 6 else f"{NUMW[int(p[1])].capitalize()}!"
+    if k == "c":
+        return "What color is this?", f"{p[1].capitalize()}!"
+    if k == "s":
+        return "What shape is this?", f"{'An' if p[1][0] in 'aeiou' else 'A'} {p[1]}!"
+    if k == "t":
+        return "What do we say?", p[1]
+    if k == "o":
+        return f"Can you find {p[1]} and {p[2]}?", f"{p[1].capitalize()} and {p[2]}!"
+    return None
+
+
+def add_review(scenes, mode, extra_q=None):
+    """Second half of the video: a gentle memory game over the cards just learned (or story questions)."""
+    bg = scenes[-1]["bg"] if scenes[-1]["bg"] != "mz_bedroom_night" else scenes[-2]["bg"]
+    ids, bgs = [], {}
+    for sc in scenes[1:-1]:
+        for c in sc["cast"]:
+            if c.get("pop") and c["id"] not in ids and review_q(c["id"], mode):
+                ids.append(c["id"]); bgs[c["id"]] = sc["bg"]
+    if len(ids) > 12:
+        ids = [ids[round(i * (len(ids) - 1) / 11)] for i in range(12)]
+    if not ids and not extra_q:
+        return scenes
+    rev = [S(bg, duo(), [L(MW, "Now let's play a memory game!" if mode != "story" else "Did you like the story? Let's remember it together!"),
+                         L(T, "Do you remember? Let's see!")], fade=True)]
+    for i, cid in enumerate(ids):
+        q, a = review_q(cid, mode)
+        wide = cid.startswith("o:") or cid.startswith("seq:")
+        rev.append(S(bgs[cid], trio(cid, wide), [L(N, q, 2.2), L(M, a), L(T, CHEERS[i % len(CHEERS)])]))
+    for q, a, card in (extra_q or []):
+        rev.append(S(bg, trio(card) if card else duo(), [L(N, q, 2.2), L(M, a), L(T, CHEERS[len(rev) % len(CHEERS)])]))
+    rev.append(S(bg, duo(), [L(MW, "Wow! You remembered everything!"), clap(T), L(T, "You are a super learner!")]))
+    return scenes[:-1] + rev + scenes[-1:]
+
+
+def ep(num, slug, title, desc, tags, thumb, scenes, review="quiz", extra_q=None, **kw):
+    if review:
+        scenes = add_review(scenes, review, extra_q)
     e = {"num": num, "slug": slug, "title": title, "desc": desc, "tags": tags, "thumbnail": thumb, "scenes": scenes}
     e.update(kw)
     EPS.append(e)
@@ -425,12 +476,15 @@ def ep21():
 # ------------------------------------------------------------------ songs 22-26 (spoken, rhythmic chants)
 def song(num, slug, title, desc, tags, thumb, bg, banner, hello, verses, chorus, teaser, **kw):
     sc = [intro(bg, banner, [L(MW, hello), L(T, "Sing along with us!")])]
-    for i, (prop, lines) in enumerate(verses):
-        sc.append(S(bg, trio(prop) if prop else duo(), [L(M if prop else MW, ln, 0.3) for ln in lines], **kw.get("scene_kw", {})))
-        if chorus and i % 2 == 1:
-            sc.append(S(bg, duo(), [L(MW, c, 0.3) for c in chorus], **kw.get("scene_kw", {})))
+    for rnd in range(2):
+        if rnd == 1:
+            sc.append(S(bg, duo(), [L(MW, "That was fun! Let's sing it one more time, all together!"), clap(T), L(T, "Ready? Here we go!")]))
+        for i, (prop, lines) in enumerate(verses):
+            sc.append(S(bg, trio(prop) if prop else duo(), [L(M if prop else MW, ln, 0.4) for ln in lines], **kw.get("scene_kw", {})))
+            if chorus and i % 2 == 1:
+                sc.append(S(bg, duo(), [L(MW, c, 0.4) for c in chorus], **kw.get("scene_kw", {})))
     sc.append(outro(bg, teaser))
-    ep(num, slug, title, desc, tags, thumb, sc, **{k: v for k, v in kw.items() if k != "scene_kw"})
+    ep(num, slug, title, desc, tags, thumb, sc, review=None, **{k: v for k, v in kw.items() if k != "scene_kw"})
 
 
 def ep22():
@@ -487,16 +541,19 @@ def ep26():
               ("i:heart:0.28", ["You are loved, so very much.", "Mommy's kiss and Daddy's touch."]), (None, ["Sweet dreams, sweet dreams, sleep so deep.", "Good night, good night, now go to sleep."])]
     chorus = ["Lullaby, lullaby, soft and slow.", "Lullaby, lullaby, off to dreamland we go."]
     sc = [S(bg, [{"id": M, "x": 0.3}, {"id": T, "x": 0.7}], [L(M, "Shh, it's bedtime, friends."), L(T, "Let's sing a sleepy song.", 0.8)], banner="Bedtime Lullaby", lead=0.4)]
-    for i, (prop, lines) in enumerate(verses):
-        cast = [{"id": M, "x": 0.22}, {"id": prop, "x": 0.52, "y": 0.62, "pop": True}, {"id": T, "x": 0.82}] if prop else [{"id": M, "x": 0.3}, {"id": T, "x": 0.7}]
-        sc.append(S(bg, cast, [L(N, ln, 0.6) for ln in lines], lead=0.6, tail=0.8))
-        if i % 2 == 1:
-            sc.append(S(bg, [{"id": M, "x": 0.3}, {"id": T, "x": 0.7}], [L(N, c, 0.6) for c in chorus], lead=0.6, tail=0.8))
+    for rnd in range(2):
+        if rnd == 1:
+            sc.append(S(bg, [{"id": M, "x": 0.3}, {"id": T, "x": 0.7}], [L(M, "One more time, softly, softly.", 1.0)], lead=0.6, tail=0.8))
+        for i, (prop, lines) in enumerate(verses):
+            cast = [{"id": M, "x": 0.22}, {"id": prop, "x": 0.52, "y": 0.62, "pop": True}, {"id": T, "x": 0.82}] if prop else [{"id": M, "x": 0.3}, {"id": T, "x": 0.7}]
+            sc.append(S(bg, cast, [L(N, ln, 0.8) for ln in lines], lead=0.7, tail=0.9))
+            if i % 2 == 1:
+                sc.append(S(bg, [{"id": M, "x": 0.3}, {"id": T, "x": 0.7}], [L(N, c, 0.8) for c in chorus], lead=0.7, tail=0.9))
     sc.append(S(bg, [{"id": M, "x": 0.3}, {"id": T, "x": 0.7}], [L(N, SHARE, 0.8), L(M, "Good night, friends. Sweet dreams.", 2.0)], fade=True, tail=1.5))
     ep(26, "bedtime_lullaby", "Bedtime Lullaby for Toddlers | Sweet Dreams Little One",
        "A calm, gentle bedtime lullaby with Mimzi and Teddy. Soft music box tune and quiet words to help little ones wind down for sleep.",
        ["Lullaby", "BedtimeSong", "SleepMusic", "BabySleep", "ToddlerSongs", "Mimzi"], th("Sweet Dreams!", "Bedtime Lullaby", "w:moon", "mz_bedroom_night"), sc,
-       music="lullaby", speed=0.88)
+       music="lullaby", speed=0.9, review=None)
 
 
 # ------------------------------------------------------------------ stories 27-30
@@ -513,7 +570,9 @@ def ep27():
           outro(bg, "Next time, watch me brush my teeth.")]
     ep(27, "sharing_story", "Sharing Is Caring | A Short Educational Story for Toddlers",
        "Mimzi has a new ball, but Teddy wants to play too. A gentle story about feelings, taking turns and sharing with friends.",
-       ["SharingIsCaring", "KidsStories", "Kindness", "BedtimeStory", "ToddlerLearning", "Mimzi"], th("Let's Share!", "Kindness Story", "i:heart"), sc)
+       ["SharingIsCaring", "KidsStories", "Kindness", "BedtimeStory", "ToddlerLearning", "Mimzi"], th("Let's Share!", "Kindness Story", "i:heart"), sc, review="story",
+       extra_q=[("What did Mimzi have?", "A red ball!", "w:ball"), ("How did Teddy feel when Mimzi said no?", "Sad.", "w:sad"),
+                ("What did Mimzi do?", "She shared her ball with Teddy!", "w:ball:sharing"), ("How did they feel after sharing?", "Happy!", "w:happy")])
 
 
 def ep28():
@@ -528,7 +587,8 @@ def ep28():
           outro("mz_bathroom", "Next time, let's wash our hands together.")]
     ep(28, "brushing_story", "Brushing Teeth for Toddlers | Fun Daily Routine Story",
        "Mimzi wakes up and brushes her teeth: toothbrush, a pea-size dot of toothpaste, up and down, round and round, spit, rinse and smile.",
-       ["BrushingTeeth", "MorningRoutine", "HealthyHabits", "KidsStories", "ToddlerLearning", "Mimzi"], th("Brush Teeth!", "Daily Routine Story", "w:toothbrush", "mz_bathroom"), sc)
+       ["BrushingTeeth", "MorningRoutine", "HealthyHabits", "KidsStories", "ToddlerLearning", "Mimzi"], th("Brush Teeth!", "Daily Routine Story", "w:toothbrush", "mz_bathroom"), sc, review="story",
+       extra_q=[("When do we brush our teeth?", "In the morning, and at night before bed!", None)])
 
 
 def ep29():
@@ -563,7 +623,7 @@ def ep30():
     ep(30, "bedtime_routine", "Bedtime Routine for Toddlers | A Sweet Good Night Story",
        "Mimzi gets ready for bed: toys away, pajamas on, brush teeth, a bedtime story, hugs and lights off. A calm routine story for toddlers.",
        ["BedtimeRoutine", "BedtimeStory", "GoodNight", "KidsStories", "ToddlerLearning", "Mimzi"], th("Good Night!", "Bedtime Story", "w:moon", "mz_bedroom_night"), sc,
-       speed=0.95)
+       speed=0.95, review="story", extra_q=[("What do we put on at bedtime?", "Our cozy pajamas!", "w:pajamas")])
 
 
 for f in (ep02, ep03, ep04, ep05, ep06, ep07, ep08, ep09, ep10, ep11, ep12, ep13, ep14, ep15, ep16, ep17, ep18, ep19, ep20, ep21, ep22, ep23, ep24, ep25, ep26, ep27, ep28, ep29, ep30):
