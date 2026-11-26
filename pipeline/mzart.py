@@ -239,10 +239,11 @@ def _obj(d, name, cx, cy, s):
         pts += [(cx + math.cos(math.pi - t) * R * 0.9, cy + math.sin(math.pi - t) ** 2 * R * 0.7) for t in [k / 39 * math.pi for k in range(40)]]
         d.polygon(pts, fill=(120, 200, 100, 255), outline=OUT, width=8)
         d.line([cx - R * 0.9, cy, cx + R * 1.1, cy + R * 0.05], fill=(80, 150, 70, 255), width=int(9 * s))
-    elif name == "moon":
-        E(d, cx, cy, R * 0.85, R * 0.85, (255, 225, 110, 255), w=8)
-        E(d, cx + R * 0.45, cy - R * 0.25, R * 0.75, R * 0.75, (255, 255, 255, 255), w=0)
-        eye(d, cx - R * 0.45, cy - R * 0.05, R * 0.1, "closed")
+    elif name == "moon":  # true crescent (no white cut-out, so it works on dark night skies too)
+        pts = [(cx + math.cos(t) * R * 0.85, cy + math.sin(t) * R * 0.85) for t in [math.radians(a) for a in range(60, 301, 8)]]
+        pts += [(cx + R * 0.45 + math.cos(t) * R * 0.75, cy - R * 0.25 + math.sin(t) * R * 0.75) for t in [math.radians(a) for a in range(242, 89, -8)]]
+        d.polygon(pts, fill=(255, 225, 110, 255), outline=OUT, width=8)
+        eye(d, cx - R * 0.5, cy - R * 0.05, R * 0.1, "closed")
     elif name == "nest":
         for k, col in enumerate(((130, 190, 240, 255), (160, 210, 250, 255), (120, 175, 230, 255))):
             E(d, cx - R * 0.35 + k * R * 0.35, cy - R * 0.1, R * 0.22, R * 0.3, col, w=6)
