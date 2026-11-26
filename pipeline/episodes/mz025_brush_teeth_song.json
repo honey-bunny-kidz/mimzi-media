@@ -23,8 +23,8 @@
      "text": "Sing along with us!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.45,
+   "lead": 0.44999999999999996,
+   "tail": 0.65,
    "banner": "Brush Your Teeth Song!"
   },
   {
@@ -48,16 +48,16 @@
     {
      "who": "mimzi",
      "text": "Here's my toothbrush, here's my paste.",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "A tiny bit, not too much waste!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bathroom",
@@ -80,16 +80,16 @@
     {
      "who": "mimzi",
      "text": "Squeeze a dot, as small as a pea.",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "Ready to brush, one, two, three!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bathroom",
@@ -107,16 +107,16 @@
     {
      "who": "mimzi_wave",
      "text": "Brush, brush, brush your teeth!",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi_wave",
      "text": "Brush, brush, sparkly clean!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bathroom",
@@ -139,16 +139,16 @@
     {
      "who": "mimzi",
      "text": "Brush the top teeth, up and down.",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "Brush the bottom, round and round!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bathroom",
@@ -171,16 +171,16 @@
     {
      "who": "mimzi",
      "text": "Brush the front and brush the back.",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "Shiny teeth, that's a fact!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bathroom",
@@ -198,16 +198,16 @@
     {
      "who": "mimzi_wave",
      "text": "Brush, brush, brush your teeth!",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi_wave",
      "text": "Brush, brush, sparkly clean!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bathroom",
@@ -230,16 +230,16 @@
     {
      "who": "mimzi",
      "text": "Spit it out and rinse away.",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "Clean teeth for a happy day!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bathroom",
@@ -262,16 +262,16 @@
     {
      "who": "mimzi",
      "text": "Now give me a great big smile!",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi",
      "text": "Brush two times a day, every day!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bathroom",
@@ -289,16 +289,321 @@
     {
      "who": "mimzi_wave",
      "text": "Brush, brush, brush your teeth!",
-     "pause": 0.3
+     "pause": 0.4
     },
     {
      "who": "mimzi_wave",
      "text": "Brush, brush, sparkly clean!",
-     "pause": 0.3
+     "pause": 0.4
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "That was fun! Let's sing it one more time, all together!"
+    },
+    {
+     "who": "teddy",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    },
+    {
+     "who": "teddy",
+     "text": "Ready? Here we go!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:toothbrush",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Here's my toothbrush, here's my paste.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "A tiny bit, not too much waste!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:toothpaste",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Squeeze a dot, as small as a pea.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Ready to brush, one, two, three!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Brush, brush, brush your teeth!",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Brush, brush, sparkly clean!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:mouth:teeth",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Brush the top teeth, up and down.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Brush the bottom, round and round!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:happy:smile",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Brush the front and brush the back.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Shiny teeth, that's a fact!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Brush, brush, brush your teeth!",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Brush, brush, sparkly clean!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:water:rinse",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Spit it out and rinse away.",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Clean teeth for a happy day!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:happy:smile",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "Now give me a great big smile!",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi",
+     "text": "Brush two times a day, every day!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_bathroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Brush, brush, brush your teeth!",
+     "pause": 0.4
+    },
+    {
+     "who": "mimzi_wave",
+     "text": "Brush, brush, sparkly clean!",
+     "pause": 0.4
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_bathroom",
@@ -327,8 +632,8 @@
      "pause": 1.0
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45,
+   "lead": 0.5,
+   "tail": 0.65,
    "fade": true
   }
  ],

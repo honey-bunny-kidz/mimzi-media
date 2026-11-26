@@ -1,0 +1,295 @@
+1
+00:00:00,450 --> 00:00:02,035
+Stand up, friends!
+
+2
+00:00:02,035 --> 00:00:04,149
+Let's dance like animals!
+
+3
+00:00:04,699 --> 00:00:07,074
+Sing along with us!
+
+4
+00:00:08,774 --> 00:00:11,999
+Hop like a bunny, hop, hop, hop!
+
+5
+00:00:12,399 --> 00:00:14,026
+Hop like a bunny,
+
+6
+00:00:14,026 --> 00:00:15,247
+now we stop!
+
+7
+00:00:16,797 --> 00:00:20,147
+Waddle like a duck, quack, quack, quack!
+
+8
+00:00:20,547 --> 00:00:23,472
+Waddle forward, waddle back!
+
+9
+00:00:25,022 --> 00:00:26,433
+Dance, dance,
+
+10
+00:00:26,433 --> 00:00:28,197
+the animal dance!
+
+11
+00:00:28,597 --> 00:00:30,102
+Move your body,
+
+12
+00:00:30,102 --> 00:00:31,522
+take a chance!
+
+13
+00:00:33,072 --> 00:00:35,176
+Stomp like an elephant,
+
+14
+00:00:35,176 --> 00:00:36,471
+big and slow!
+
+15
+00:00:36,871 --> 00:00:38,830
+Stomp, stomp, stomp,
+
+16
+00:00:38,830 --> 00:00:40,022
+here we go!
+
+17
+00:00:41,572 --> 00:00:45,097
+Swim like a fish, swish, swish, swish!
+
+18
+00:00:45,497 --> 00:00:48,721
+Wiggle your arms like a little fish!
+
+19
+00:00:50,271 --> 00:00:51,683
+Dance, dance,
+
+20
+00:00:51,683 --> 00:00:53,447
+the animal dance!
+
+21
+00:00:53,847 --> 00:00:55,351
+Move your body,
+
+22
+00:00:55,351 --> 00:00:56,771
+take a chance!
+
+23
+00:00:58,321 --> 00:01:00,400
+Flap like a butterfly,
+
+24
+00:01:00,400 --> 00:01:01,647
+fly up high!
+
+25
+00:01:02,047 --> 00:01:03,738
+Flutter, flutter,
+
+26
+00:01:03,738 --> 00:01:04,922
+in the sky!
+
+27
+00:01:06,472 --> 00:01:08,195
+Roar like a lion,
+
+28
+00:01:08,195 --> 00:01:09,746
+loud and proud!
+
+29
+00:01:10,146 --> 00:01:11,902
+Roar, roar, roar,
+
+30
+00:01:11,902 --> 00:01:13,395
+nice and loud!
+
+31
+00:01:14,945 --> 00:01:16,357
+Dance, dance,
+
+32
+00:01:16,357 --> 00:01:18,121
+the animal dance!
+
+33
+00:01:18,521 --> 00:01:20,025
+Move your body,
+
+34
+00:01:20,025 --> 00:01:21,446
+take a chance!
+
+35
+00:01:22,996 --> 00:01:24,104
+That was fun!
+
+36
+00:01:24,104 --> 00:01:27,220
+Let's sing it one more time, all together!
+
+37
+00:01:29,070 --> 00:01:31,520
+Ready? Here we go!
+
+38
+00:01:33,220 --> 00:01:36,445
+Hop like a bunny, hop, hop, hop!
+
+39
+00:01:36,845 --> 00:01:38,473
+Hop like a bunny,
+
+40
+00:01:38,473 --> 00:01:39,694
+now we stop!
+
+41
+00:01:41,244 --> 00:01:44,594
+Waddle like a duck, quack, quack, quack!
+
+42
+00:01:44,994 --> 00:01:47,918
+Waddle forward, waddle back!
+
+43
+00:01:49,468 --> 00:01:50,880
+Dance, dance,
+
+44
+00:01:50,880 --> 00:01:52,644
+the animal dance!
+
+45
+00:01:53,044 --> 00:01:54,548
+Move your body,
+
+46
+00:01:54,548 --> 00:01:55,969
+take a chance!
+
+47
+00:01:57,519 --> 00:01:59,623
+Stomp like an elephant,
+
+48
+00:01:59,623 --> 00:02:00,918
+big and slow!
+
+49
+00:02:01,318 --> 00:02:03,276
+Stomp, stomp, stomp,
+
+50
+00:02:03,276 --> 00:02:04,469
+here we go!
+
+51
+00:02:06,019 --> 00:02:09,543
+Swim like a fish, swish, swish, swish!
+
+52
+00:02:09,943 --> 00:02:13,168
+Wiggle your arms like a little fish!
+
+53
+00:02:14,718 --> 00:02:16,129
+Dance, dance,
+
+54
+00:02:16,129 --> 00:02:17,893
+the animal dance!
+
+55
+00:02:18,293 --> 00:02:19,797
+Move your body,
+
+56
+00:02:19,797 --> 00:02:21,218
+take a chance!
+
+57
+00:02:22,768 --> 00:02:24,846
+Flap like a butterfly,
+
+58
+00:02:24,846 --> 00:02:26,093
+fly up high!
+
+59
+00:02:26,493 --> 00:02:28,185
+Flutter, flutter,
+
+60
+00:02:28,185 --> 00:02:29,369
+in the sky!
+
+61
+00:02:30,919 --> 00:02:32,642
+Roar like a lion,
+
+62
+00:02:32,642 --> 00:02:34,193
+loud and proud!
+
+63
+00:02:34,593 --> 00:02:36,349
+Roar, roar, roar,
+
+64
+00:02:36,349 --> 00:02:37,842
+nice and loud!
+
+65
+00:02:39,392 --> 00:02:40,803
+Dance, dance,
+
+66
+00:02:40,803 --> 00:02:42,567
+the animal dance!
+
+67
+00:02:42,967 --> 00:02:44,471
+Move your body,
+
+68
+00:02:44,471 --> 00:02:45,892
+take a chance!
+
+69
+00:02:47,442 --> 00:02:50,242
+Great job, little learner!
+
+70
+00:02:50,792 --> 00:02:52,743
+Share Mimzi with a friend,
+
+71
+00:02:52,743 --> 00:02:55,367
+and subscribe for more learning fun!
+
+72
+00:02:55,917 --> 00:02:56,824
+Next time,
+
+73
+00:02:56,824 --> 00:02:59,616
+let's sing the brush your teeth song.
+
+74
+00:02:59,866 --> 00:03:01,591
+Bye bye!

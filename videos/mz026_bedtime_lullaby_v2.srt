@@ -1,0 +1,291 @@
+1
+00:00:00,550 --> 00:00:03,775
+Shh, it's bedtime, friends.
+
+2
+00:00:04,325 --> 00:00:07,450
+Let's sing a sleepy song.
+
+3
+00:00:09,750 --> 00:00:11,185
+The moon is up,
+
+4
+00:00:11,185 --> 00:00:12,700
+the sky is deep.
+
+5
+00:00:13,500 --> 00:00:16,525
+It's time for little ones to sleep.
+
+6
+00:00:19,275 --> 00:00:20,526
+Little stars,
+
+7
+00:00:20,526 --> 00:00:22,325
+they twinkle bright.
+
+8
+00:00:23,125 --> 00:00:26,200
+They softly whisper, sleep tight.
+
+9
+00:00:28,950 --> 00:00:30,896
+Lullaby, lullaby,
+
+10
+00:00:30,896 --> 00:00:32,550
+soft and slow.
+
+11
+00:00:33,350 --> 00:00:35,165
+Lullaby, lullaby,
+
+12
+00:00:35,165 --> 00:00:37,525
+off to dreamland we go.
+
+13
+00:00:40,275 --> 00:00:41,832
+Close your eyes,
+
+14
+00:00:41,832 --> 00:00:43,225
+my little one.
+
+15
+00:00:44,025 --> 00:00:45,125
+Our busy,
+
+16
+00:00:45,125 --> 00:00:47,050
+happy day is done.
+
+17
+00:00:49,800 --> 00:00:51,222
+Teddy's here,
+
+18
+00:00:51,222 --> 00:00:52,000
+so warm and near.
+
+19
+00:00:53,800 --> 00:00:55,559
+Hush now, darling,
+
+20
+00:00:55,559 --> 00:00:56,900
+have no fear.
+
+21
+00:00:59,650 --> 00:01:01,596
+Lullaby, lullaby,
+
+22
+00:01:01,596 --> 00:01:03,250
+soft and slow.
+
+23
+00:01:04,050 --> 00:01:05,865
+Lullaby, lullaby,
+
+24
+00:01:05,865 --> 00:01:08,225
+off to dreamland we go.
+
+25
+00:01:10,975 --> 00:01:12,481
+You are loved,
+
+26
+00:01:12,481 --> 00:01:13,900
+so very much.
+
+27
+00:01:14,700 --> 00:01:17,800
+Mommy's kiss and Daddy's touch.
+
+28
+00:01:20,550 --> 00:01:22,991
+Sweet dreams, sweet dreams,
+
+29
+00:01:22,991 --> 00:01:24,375
+sleep so deep.
+
+30
+00:01:25,175 --> 00:01:27,240
+Good night, good night,
+
+31
+00:01:27,240 --> 00:01:28,750
+now go to sleep.
+
+32
+00:01:31,500 --> 00:01:33,446
+Lullaby, lullaby,
+
+33
+00:01:33,446 --> 00:01:35,100
+soft and slow.
+
+34
+00:01:35,900 --> 00:01:37,715
+Lullaby, lullaby,
+
+35
+00:01:37,715 --> 00:01:40,075
+off to dreamland we go.
+
+36
+00:01:42,725 --> 00:01:46,448
+One more time, softly, softly.
+
+37
+00:01:49,298 --> 00:01:50,733
+The moon is up,
+
+38
+00:01:50,733 --> 00:01:52,248
+the sky is deep.
+
+39
+00:01:53,048 --> 00:01:56,073
+It's time for little ones to sleep.
+
+40
+00:01:58,823 --> 00:02:00,075
+Little stars,
+
+41
+00:02:00,075 --> 00:02:01,873
+they twinkle bright.
+
+42
+00:02:02,673 --> 00:02:05,748
+They softly whisper, sleep tight.
+
+43
+00:02:08,498 --> 00:02:10,444
+Lullaby, lullaby,
+
+44
+00:02:10,444 --> 00:02:12,098
+soft and slow.
+
+45
+00:02:12,898 --> 00:02:14,713
+Lullaby, lullaby,
+
+46
+00:02:14,713 --> 00:02:17,073
+off to dreamland we go.
+
+47
+00:02:19,823 --> 00:02:21,380
+Close your eyes,
+
+48
+00:02:21,380 --> 00:02:22,773
+my little one.
+
+49
+00:02:23,573 --> 00:02:24,673
+Our busy,
+
+50
+00:02:24,673 --> 00:02:26,598
+happy day is done.
+
+51
+00:02:29,348 --> 00:02:30,770
+Teddy's here,
+
+52
+00:02:30,770 --> 00:02:32,548
+so warm and near.
+
+53
+00:02:33,348 --> 00:02:35,108
+Hush now, darling,
+
+54
+00:02:35,108 --> 00:02:36,448
+have no fear.
+
+55
+00:02:39,198 --> 00:02:41,144
+Lullaby, lullaby,
+
+56
+00:02:41,144 --> 00:02:42,798
+soft and slow.
+
+57
+00:02:43,598 --> 00:02:45,413
+Lullaby, lullaby,
+
+58
+00:02:45,413 --> 00:02:47,773
+off to dreamland we go.
+
+59
+00:02:50,523 --> 00:02:52,030
+You are loved,
+
+60
+00:02:52,030 --> 00:02:53,448
+so very much.
+
+61
+00:02:54,248 --> 00:02:57,348
+Mommy's kiss and Daddy's touch.
+
+62
+00:03:00,098 --> 00:03:02,540
+Sweet dreams, sweet dreams,
+
+63
+00:03:02,540 --> 00:03:03,923
+sleep so deep.
+
+64
+00:03:04,723 --> 00:03:06,789
+Good night, good night,
+
+65
+00:03:06,789 --> 00:03:08,298
+now go to sleep.
+
+66
+00:03:11,048 --> 00:03:12,994
+Lullaby, lullaby,
+
+67
+00:03:12,994 --> 00:03:14,648
+soft and slow.
+
+68
+00:03:15,448 --> 00:03:17,263
+Lullaby, lullaby,
+
+69
+00:03:17,263 --> 00:03:19,623
+off to dreamland we go.
+
+70
+00:03:22,023 --> 00:03:24,124
+Share Mimzi with a friend,
+
+71
+00:03:24,124 --> 00:03:26,948
+and subscribe for more learning fun!
+
+72
+00:03:27,748 --> 00:03:29,798
+Good night, friends.
+
+73
+00:03:29,798 --> 00:03:31,224
+Sweet dreams.

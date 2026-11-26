@@ -24,8 +24,8 @@
      "pause": 0.8
     }
    ],
-   "lead": 0.4,
-   "tail": 0.45,
+   "lead": 0.55,
+   "tail": 0.65,
    "banner": "Bedtime Lullaby"
   },
   {
@@ -50,16 +50,16 @@
     {
      "who": "narrator",
      "text": "The moon is up, the sky is deep.",
-     "pause": 0.6
+     "pause": 0.8
     },
     {
      "who": "narrator",
      "text": "It's time for little ones to sleep.",
-     "pause": 0.6
+     "pause": 0.8
     }
    ],
-   "lead": 0.6,
-   "tail": 0.8
+   "lead": 0.85,
+   "tail": 1.1
   },
   {
    "bg": "mz_bedroom_night",
@@ -83,16 +83,16 @@
     {
      "who": "narrator",
      "text": "Little stars, they twinkle bright.",
-     "pause": 0.6
+     "pause": 0.8
     },
     {
      "who": "narrator",
      "text": "They softly whisper, sleep tight.",
-     "pause": 0.6
+     "pause": 0.8
     }
    ],
-   "lead": 0.6,
-   "tail": 0.8
+   "lead": 0.85,
+   "tail": 1.1
   },
   {
    "bg": "mz_bedroom_night",
@@ -110,16 +110,16 @@
     {
      "who": "narrator",
      "text": "Lullaby, lullaby, soft and slow.",
-     "pause": 0.6
+     "pause": 0.8
     },
     {
      "who": "narrator",
      "text": "Lullaby, lullaby, off to dreamland we go.",
-     "pause": 0.6
+     "pause": 0.8
     }
    ],
-   "lead": 0.6,
-   "tail": 0.8
+   "lead": 0.85,
+   "tail": 1.1
   },
   {
    "bg": "mz_bedroom_night",
@@ -137,16 +137,16 @@
     {
      "who": "narrator",
      "text": "Close your eyes, my little one.",
-     "pause": 0.6
+     "pause": 0.8
     },
     {
      "who": "narrator",
      "text": "Our busy, happy day is done.",
-     "pause": 0.6
+     "pause": 0.8
     }
    ],
-   "lead": 0.6,
-   "tail": 0.8
+   "lead": 0.85,
+   "tail": 1.1
   },
   {
    "bg": "mz_bedroom_night",
@@ -170,16 +170,16 @@
     {
      "who": "narrator",
      "text": "Teddy's here, so warm and near.",
-     "pause": 0.6
+     "pause": 0.8
     },
     {
      "who": "narrator",
      "text": "Hush now, darling, have no fear.",
-     "pause": 0.6
+     "pause": 0.8
     }
    ],
-   "lead": 0.6,
-   "tail": 0.8
+   "lead": 0.85,
+   "tail": 1.1
   },
   {
    "bg": "mz_bedroom_night",
@@ -197,16 +197,16 @@
     {
      "who": "narrator",
      "text": "Lullaby, lullaby, soft and slow.",
-     "pause": 0.6
+     "pause": 0.8
     },
     {
      "who": "narrator",
      "text": "Lullaby, lullaby, off to dreamland we go.",
-     "pause": 0.6
+     "pause": 0.8
     }
    ],
-   "lead": 0.6,
-   "tail": 0.8
+   "lead": 0.85,
+   "tail": 1.1
   },
   {
    "bg": "mz_bedroom_night",
@@ -230,16 +230,16 @@
     {
      "who": "narrator",
      "text": "You are loved, so very much.",
-     "pause": 0.6
+     "pause": 0.8
     },
     {
      "who": "narrator",
      "text": "Mommy's kiss and Daddy's touch.",
-     "pause": 0.6
+     "pause": 0.8
     }
    ],
-   "lead": 0.6,
-   "tail": 0.8
+   "lead": 0.85,
+   "tail": 1.1
   },
   {
    "bg": "mz_bedroom_night",
@@ -257,16 +257,16 @@
     {
      "who": "narrator",
      "text": "Sweet dreams, sweet dreams, sleep so deep.",
-     "pause": 0.6
+     "pause": 0.8
     },
     {
      "who": "narrator",
      "text": "Good night, good night, now go to sleep.",
-     "pause": 0.6
+     "pause": 0.8
     }
    ],
-   "lead": 0.6,
-   "tail": 0.8
+   "lead": 0.85,
+   "tail": 1.1
   },
   {
    "bg": "mz_bedroom_night",
@@ -284,16 +284,305 @@
     {
      "who": "narrator",
      "text": "Lullaby, lullaby, soft and slow.",
-     "pause": 0.6
+     "pause": 0.8
     },
     {
      "who": "narrator",
      "text": "Lullaby, lullaby, off to dreamland we go.",
-     "pause": 0.6
+     "pause": 0.8
     }
    ],
-   "lead": 0.6,
-   "tail": 0.8
+   "lead": 0.85,
+   "tail": 1.1
+  },
+  {
+   "bg": "mz_bedroom_night",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi",
+     "text": "One more time, softly, softly.",
+     "pause": 1.0
+    }
+   ],
+   "lead": 0.75,
+   "tail": 1.0
+  },
+  {
+   "bg": "mz_bedroom_night",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.22
+    },
+    {
+     "id": "i:moon:0.3",
+     "x": 0.52,
+     "y": 0.62,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.82
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The moon is up, the sky is deep.",
+     "pause": 0.8
+    },
+    {
+     "who": "narrator",
+     "text": "It's time for little ones to sleep.",
+     "pause": 0.8
+    }
+   ],
+   "lead": 0.85,
+   "tail": 1.1
+  },
+  {
+   "bg": "mz_bedroom_night",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.22
+    },
+    {
+     "id": "i:star:0.28",
+     "x": 0.52,
+     "y": 0.62,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.82
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Little stars, they twinkle bright.",
+     "pause": 0.8
+    },
+    {
+     "who": "narrator",
+     "text": "They softly whisper, sleep tight.",
+     "pause": 0.8
+    }
+   ],
+   "lead": 0.85,
+   "tail": 1.1
+  },
+  {
+   "bg": "mz_bedroom_night",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Lullaby, lullaby, soft and slow.",
+     "pause": 0.8
+    },
+    {
+     "who": "narrator",
+     "text": "Lullaby, lullaby, off to dreamland we go.",
+     "pause": 0.8
+    }
+   ],
+   "lead": 0.85,
+   "tail": 1.1
+  },
+  {
+   "bg": "mz_bedroom_night",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Close your eyes, my little one.",
+     "pause": 0.8
+    },
+    {
+     "who": "narrator",
+     "text": "Our busy, happy day is done.",
+     "pause": 0.8
+    }
+   ],
+   "lead": 0.85,
+   "tail": 1.1
+  },
+  {
+   "bg": "mz_bedroom_night",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.22
+    },
+    {
+     "id": "i:teddy_i:0.3",
+     "x": 0.52,
+     "y": 0.62,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.82
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Teddy's here, so warm and near.",
+     "pause": 0.8
+    },
+    {
+     "who": "narrator",
+     "text": "Hush now, darling, have no fear.",
+     "pause": 0.8
+    }
+   ],
+   "lead": 0.85,
+   "tail": 1.1
+  },
+  {
+   "bg": "mz_bedroom_night",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Lullaby, lullaby, soft and slow.",
+     "pause": 0.8
+    },
+    {
+     "who": "narrator",
+     "text": "Lullaby, lullaby, off to dreamland we go.",
+     "pause": 0.8
+    }
+   ],
+   "lead": 0.85,
+   "tail": 1.1
+  },
+  {
+   "bg": "mz_bedroom_night",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.22
+    },
+    {
+     "id": "i:heart:0.28",
+     "x": 0.52,
+     "y": 0.62,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.82
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "You are loved, so very much.",
+     "pause": 0.8
+    },
+    {
+     "who": "narrator",
+     "text": "Mommy's kiss and Daddy's touch.",
+     "pause": 0.8
+    }
+   ],
+   "lead": 0.85,
+   "tail": 1.1
+  },
+  {
+   "bg": "mz_bedroom_night",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sweet dreams, sweet dreams, sleep so deep.",
+     "pause": 0.8
+    },
+    {
+     "who": "narrator",
+     "text": "Good night, good night, now go to sleep.",
+     "pause": 0.8
+    }
+   ],
+   "lead": 0.85,
+   "tail": 1.1
+  },
+  {
+   "bg": "mz_bedroom_night",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Lullaby, lullaby, soft and slow.",
+     "pause": 0.8
+    },
+    {
+     "who": "narrator",
+     "text": "Lullaby, lullaby, off to dreamland we go.",
+     "pause": 0.8
+    }
+   ],
+   "lead": 0.85,
+   "tail": 1.1
   },
   {
    "bg": "mz_bedroom_night",
@@ -319,8 +608,8 @@
      "pause": 2.0
     }
    ],
-   "lead": 0.35,
-   "tail": 1.5,
+   "lead": 0.5,
+   "tail": 1.7,
    "fade": true
   }
  ],
@@ -346,5 +635,5 @@
   ]
  },
  "music": "lullaby",
- "speed": 0.88
+ "speed": 0.9
 }
