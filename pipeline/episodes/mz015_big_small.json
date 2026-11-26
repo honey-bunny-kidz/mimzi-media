@@ -23,8 +23,8 @@
      "text": "I am small. Mimzi is big!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.45,
+   "lead": 0.44999999999999996,
+   "tail": 0.65,
    "banner": "Big and Small!"
   },
   {
@@ -60,8 +60,8 @@
      "text": "Big ball, small ball!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -95,8 +95,8 @@
      "text": "And this is the small teddy."
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -131,8 +131,8 @@
      "text": "Big apple, small apple!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -166,8 +166,8 @@
      "text": "And this is the small car."
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -202,8 +202,8 @@
      "text": "Big balloon, small balloon!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -237,8 +237,8 @@
      "text": "And this is the small star."
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -272,8 +272,8 @@
      "text": "Stomp, stomp! Buzz, buzz!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -309,8 +309,311 @@
      "pause": 0.6
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Now let's play a memory game!"
+    },
+    {
+     "who": "teddy",
+     "text": "Do you remember? Let's see!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65,
+   "fade": true
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:big:small:ball:ball:size",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Can you find big and small?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Big and small!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yes! Well done!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:big:small:teddy_i:teddy_i:size",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Can you find big and small?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Big and small!"
+    },
+    {
+     "who": "teddy",
+     "text": "That's right!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:big:small:apple:apple:size",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Can you find big and small?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Big and small!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:big:small:car:car:size",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Can you find big and small?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Big and small!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:big:small:balloon:balloon:size",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Can you find big and small?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Big and small!"
+    },
+    {
+     "who": "teddy",
+     "text": "Super!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:big:small:star:star:size",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Can you find big and small?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Big and small!"
+    },
+    {
+     "who": "teddy",
+     "text": "Hooray!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:big:small:elephant:ladybug",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Can you find big and small?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Big and small!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yes! Well done!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Wow! You remembered everything!"
+    },
+    {
+     "who": "teddy",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    },
+    {
+     "who": "teddy",
+     "text": "You are a super learner!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -339,8 +642,8 @@
      "pause": 1.0
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45,
+   "lead": 0.5,
+   "tail": 0.65,
    "fade": true
   }
  ],

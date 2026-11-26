@@ -23,8 +23,8 @@
      "text": "Up and down! Hot and cold!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.45,
+   "lead": 0.44999999999999996,
+   "tail": 0.65,
    "banner": "Learn Opposites!"
   },
   {
@@ -60,8 +60,8 @@
      "text": "Up and down! They are opposites!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -96,8 +96,8 @@
      "text": "Hot and cold! They are opposites!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -132,8 +132,8 @@
      "text": "Happy and sad! They are opposites!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -168,8 +168,8 @@
      "text": "Open and closed! They are opposites!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -204,8 +204,8 @@
      "text": "Full and empty! They are opposites!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -240,8 +240,8 @@
      "text": "Day and night! They are opposites!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -276,8 +276,8 @@
      "text": "Fast and slow! They are opposites!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -307,8 +307,8 @@
      "text": "Cold!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -338,8 +338,311 @@
      "text": "Slow!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Now let's play a memory game!"
+    },
+    {
+     "who": "teddy",
+     "text": "Do you remember? Let's see!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65,
+   "fade": true
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:up:down:balloon:ball",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Can you find up and down?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Up and down!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yes! Well done!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:hot:cold:cocoa:snowman",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Can you find hot and cold?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Hot and cold!"
+    },
+    {
+     "who": "teddy",
+     "text": "That's right!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:happy:sad:happy:sad",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Can you find happy and sad?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Happy and sad!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:open:closed:box_open:box_closed",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Can you find open and closed?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Open and closed!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:full:empty:cup_full:cup_empty",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Can you find full and empty?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Full and empty!"
+    },
+    {
+     "who": "teddy",
+     "text": "Super!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:day:night:sun:moon",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Can you find day and night?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Day and night!"
+    },
+    {
+     "who": "teddy",
+     "text": "Hooray!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.13
+    },
+    {
+     "id": "o:fast:slow:car:snail",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.89
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Can you find fast and slow?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Fast and slow!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yes! Well done!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Wow! You remembered everything!"
+    },
+    {
+     "who": "teddy",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    },
+    {
+     "who": "teddy",
+     "text": "You are a super learner!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -368,8 +671,8 @@
      "pause": 1.0
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45,
+   "lead": 0.5,
+   "tail": 0.65,
    "fade": true
   }
  ],
