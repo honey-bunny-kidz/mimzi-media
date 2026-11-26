@@ -5,7 +5,6 @@ R=/home/claude/mimzi-media
 for f in "$@"; do
   cp out/$f.mp4 $R/videos/${f}_v2.mp4; cp out/$f.srt $R/videos/${f}_v2.srt; cp out/${f}_thumb.jpg $R/thumbnails/${f}_v2_thumb.jpg
   cp episodes/$f.json $R/pipeline/episodes/
-  git -C $R rm -q --ignore-unmatch videos/$f.mp4 videos/$f.srt thumbnails/${f}_thumb.jpg
 done
 cp mzart.py mzlib.py render.py tts.py thumbnail.py gen.py batch.sh push2.sh $R/pipeline/; cp episodes/schedule.json $R/pipeline/episodes/
 cd $R && git add -A && git -c user.name="Claude" -c user.email="noreply@anthropic.com" commit -q -m "Mimzi v2 (longer, new voices): $*

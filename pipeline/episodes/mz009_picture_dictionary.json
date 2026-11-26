@@ -28,8 +28,8 @@
      "text": "Twenty words! Ready?"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.45,
+   "lead": 0.44999999999999996,
+   "tail": 0.65,
    "banner": "My First Picture Dictionary"
   },
   {
@@ -65,8 +65,8 @@
      "text": "An apple."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -101,8 +101,8 @@
      "text": "A banana."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -137,8 +137,8 @@
      "text": "A ball."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -173,8 +173,8 @@
      "text": "A book."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -209,8 +209,8 @@
      "text": "A cup."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -245,8 +245,8 @@
      "text": "A car."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -281,8 +281,8 @@
      "text": "A cat."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -317,8 +317,8 @@
      "text": "A dog."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -353,8 +353,8 @@
      "text": "A duck."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -389,8 +389,8 @@
      "text": "A fish."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -421,8 +421,8 @@
      "text": "Ten more!"
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -457,8 +457,8 @@
      "text": "A shoe."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -493,8 +493,8 @@
      "text": "A hat."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -529,8 +529,8 @@
      "text": "A bed."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -565,8 +565,8 @@
      "text": "A chair."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -601,8 +601,8 @@
      "text": "The sun."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -637,8 +637,8 @@
      "text": "The moon."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -673,8 +673,8 @@
      "text": "A star."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -709,8 +709,8 @@
      "text": "A tree."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -745,8 +745,8 @@
      "text": "A balloon."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_playroom",
@@ -781,8 +781,486 @@
      "text": "A clock."
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Now let's play a memory game!"
+    },
+    {
+     "who": "teddy",
+     "text": "Do you remember? Let's see!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65,
+   "fade": true
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:apple:apple",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Apple!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yes! Well done!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:ball:ball",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Ball!"
+    },
+    {
+     "who": "teddy",
+     "text": "That's right!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:book:book",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Book!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:car:car",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Car!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:dog:dog",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Dog!"
+    },
+    {
+     "who": "teddy",
+     "text": "Super!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:fish:fish",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Fish!"
+    },
+    {
+     "who": "teddy",
+     "text": "Hooray!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:shoe:shoe",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Shoe!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yes! Well done!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:bed:bed",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Bed!"
+    },
+    {
+     "who": "teddy",
+     "text": "That's right!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:sun:sun",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Sun!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:star:star",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Star!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:tree:tree",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Tree!"
+    },
+    {
+     "who": "teddy",
+     "text": "Super!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "w:clock:clock",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is this?",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Clock!"
+    },
+    {
+     "who": "teddy",
+     "text": "Hooray!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_playroom",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Wow! You remembered everything!"
+    },
+    {
+     "who": "teddy",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    },
+    {
+     "who": "teddy",
+     "text": "You are a super learner!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_playroom",
@@ -820,8 +1298,8 @@
      "pause": 1.0
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45,
+   "lead": 0.5,
+   "tail": 0.65,
    "fade": true
   }
  ],

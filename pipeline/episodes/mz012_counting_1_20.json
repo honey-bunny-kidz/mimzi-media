@@ -28,8 +28,8 @@
      "text": "Wow, that's a lot!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.45,
+   "lead": 0.44999999999999996,
+   "tail": 0.65,
    "banner": "Counting 1 to 20!"
   },
   {
@@ -65,8 +65,8 @@
      "text": "One chick!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -101,8 +101,8 @@
      "text": "Two ladybugs!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -137,8 +137,8 @@
      "text": "Three fish!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -173,8 +173,8 @@
      "text": "Four bees!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -209,8 +209,8 @@
      "text": "Five butterflies!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -240,8 +240,8 @@
      "text": "Six ducks!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -271,8 +271,8 @@
      "text": "Seven bunnies!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -302,8 +302,8 @@
      "text": "Eight turtles!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -333,8 +333,8 @@
      "text": "Nine sheep!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -371,8 +371,8 @@
      "pause": 0.3
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -402,8 +402,8 @@
      "text": "Eleven chicks!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -433,8 +433,8 @@
      "text": "Twelve ladybugs!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -464,8 +464,8 @@
      "text": "Thirteen fish!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -495,8 +495,8 @@
      "text": "Fourteen bees!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -526,8 +526,8 @@
      "text": "Fifteen butterflies!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -557,8 +557,8 @@
      "text": "Sixteen ducks!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -588,8 +588,8 @@
      "text": "Seventeen bunnies!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -619,8 +619,8 @@
      "text": "Eighteen turtles!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -650,8 +650,8 @@
      "text": "Nineteen sheep!"
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -688,8 +688,8 @@
      "pause": 0.3
     }
    ],
-   "lead": 0.3,
-   "tail": 0.35
+   "lead": 0.44999999999999996,
+   "tail": 0.55
   },
   {
    "bg": "mz_garden",
@@ -719,8 +719,486 @@
      "pause": 0.6
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Now let's play a memory game!"
+    },
+    {
+     "who": "teddy",
+     "text": "Do you remember? Let's see!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65,
+   "fade": true
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:1:chick",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "How many? Let's count!",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "One!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yes! Well done!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:3:fish",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "How many? Let's count!",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "One, two, three!"
+    },
+    {
+     "who": "teddy",
+     "text": "That's right!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:4:bee",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "How many? Let's count!",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "One, two, three, four!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:6:duck",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "How many? Let's count!",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "One, two, three, four, five, six!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:8:turtle",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "How many? Let's count!",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Eight!"
+    },
+    {
+     "who": "teddy",
+     "text": "Super!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:10:chick",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "How many? Let's count!",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Ten!"
+    },
+    {
+     "who": "teddy",
+     "text": "Hooray!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:11:chick",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "How many? Let's count!",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Eleven!"
+    },
+    {
+     "who": "teddy",
+     "text": "Yes! Well done!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:13:fish",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "How many? Let's count!",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Thirteen!"
+    },
+    {
+     "who": "teddy",
+     "text": "That's right!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:15:butterfly",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "How many? Let's count!",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Fifteen!"
+    },
+    {
+     "who": "teddy",
+     "text": "Great job!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:17:rabbit",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "How many? Let's count!",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Seventeen!"
+    },
+    {
+     "who": "teddy",
+     "text": "You got it!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:18:turtle",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "How many? Let's count!",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Eighteen!"
+    },
+    {
+     "who": "teddy",
+     "text": "Super!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi",
+     "x": 0.18
+    },
+    {
+     "id": "n:20:chick",
+     "x": 0.52,
+     "pop": true
+    },
+    {
+     "id": "teddy",
+     "x": 0.85
+    }
+   ],
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "How many? Let's count!",
+     "pause": 2.2
+    },
+    {
+     "who": "mimzi",
+     "text": "Twenty!"
+    },
+    {
+     "who": "teddy",
+     "text": "Hooray!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
+  },
+  {
+   "bg": "mz_garden",
+   "cast": [
+    {
+     "id": "mimzi_wave",
+     "x": 0.3
+    },
+    {
+     "id": "teddy",
+     "x": 0.7
+    }
+   ],
+   "lines": [
+    {
+     "who": "mimzi_wave",
+     "text": "Wow! You remembered everything!"
+    },
+    {
+     "who": "teddy",
+     "sfx": "clap",
+     "text": "",
+     "dur": 1.0,
+     "pause": 0.3
+    },
+    {
+     "who": "teddy",
+     "text": "You are a super learner!"
+    }
+   ],
+   "lead": 0.5,
+   "tail": 0.65
   },
   {
    "bg": "mz_garden",
@@ -749,8 +1227,8 @@
      "pause": 1.0
     }
    ],
-   "lead": 0.35,
-   "tail": 0.45,
+   "lead": 0.5,
+   "tail": 0.65,
    "fade": true
   }
  ],
